@@ -1,0 +1,184 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* DARK MODE (PRIMARY EDITORIAL LUXURY) */
+  --color-bg: #080808;
+  --color-surface: #101010;
+  --color-card: #141414;
+  --color-text: #F5F2EA;
+  --color-muted: #888888;
+  --color-border: #1F1F1F;
+  --color-accent: #C5BAA8;
+  --color-accent-hover: #DFD7C9;
+}
+
+html.light {
+  /* LIGHT MODE EDITORIAL ALTERNATIVE */
+  --color-bg: #F4F2EC;
+  --color-surface: #FFFFFF;
+  --color-card: #EAE6DD;
+  --color-text: #111111;
+  --color-muted: #6E6A63;
+  --color-border: #D8D3C8;
+  --color-accent: #6C6354;
+  --color-accent-hover: #4F473A;
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  overflow-x: hidden;
+  transition: background-color 0.4s cubic-bezier(0.16, 1, 0.3, 1), color 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Typography styles */
+.font-editorial {
+  font-family: 'Syncopate', 'Space Grotesk', sans-serif;
+  letter-spacing: 0.12em;
+}
+
+.font-heading {
+  font-family: 'Bebas Neue', 'Oswald', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+/* Editorial vertical text utilities */
+.vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+
+/* Glassmorphism accents */
+.glass-nav {
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  background-color: rgba(8, 8, 8, 0.88);
+}
+
+html.light .glass-nav {
+  background-color: rgba(244, 242, 236, 0.90);
+}
+
+/* Editorial fine border grid */
+.editorial-grid {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+}
+
+/* ============================================================ */
+/* UNKNOWN CULT CINEMATIC EDITORIAL ANIMATION SYSTEM           */
+/* ============================================================ */
+
+@keyframes editorialFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes editorialScaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes radarPing {
+  0% {
+    transform: scale(0.95);
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+}
+
+.animate-editorial-fade {
+  animation: editorialFadeIn 0.55s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-editorial-scale {
+  animation: editorialScaleIn 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-radar-ping {
+  animation: radarPing 2.4s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+/* Staggered card reveals */
+.stagger-1 { animation-delay: 60ms; }
+.stagger-2 { animation-delay: 120ms; }
+.stagger-3 { animation-delay: 180ms; }
+.stagger-4 { animation-delay: 240ms; }
+
+/* Subtle restrained image zoom on hover */
+.img-editorial-zoom {
+  will-change: transform, filter;
+  transition: transform 0.8s cubic-bezier(0.19, 1, 0.22, 1), filter 0.8s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.img-editorial-zoom:hover {
+  transform: scale(1.035);
+}
+
+/* ACCESSIBILITY: Respect prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .img-editorial-zoom:hover {
+    transform: none !important;
+  }
+}

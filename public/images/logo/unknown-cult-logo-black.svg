@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 80" fill="none">
+  <!-- UNKNOWN CULT — FULL LOGO (BLACK) -->
+  <g transform="translate(10, 10) scale(0.6)">
+    <path d="M12 16H30V64L42 76H54L64 66V50H48V36H78V72L60 90H36L12 66V16Z" fill="#090909"/>
+    <path d="M88 16H52L40 28H74V40H88V16Z" fill="#090909"/>
+    <path d="M88 84H66L78 72H88V84Z" fill="#090909"/>
+    <polygon points="58,46 68,36 74,42 64,52" fill="#746B5E"/>
+  </g>
+  <text x="90" y="52" font-family="'Space Grotesk', -apple-system, sans-serif" font-size="28" font-weight="800" letter-spacing="0.25em" fill="#090909">UNKNOWN CULT</text>
+</svg>

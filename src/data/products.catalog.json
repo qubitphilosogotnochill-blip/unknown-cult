@@ -1,0 +1,6571 @@
+[
+  {
+    "id": "uc-gym-01",
+    "name": "HEAVYWEIGHT OVERSIZED PUMP COVER TEE",
+    "slug": "heavyweight-oversized-pump-cover-tee",
+    "tagline": "300 GSM Heavy Combed Cotton. Boxy Drop Shoulder.",
+    "description": "Designed specifically for grueling lifting sessions and post-workout anonymity. Engineered with an ultra-heavy 300 GSM combed cotton that holds its architectural boxy silhouette regardless of pump volume.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 1299,
+    "originalPrice": 1799,
+    "images": [
+      "/images/products/uc-gym-heavytee-front_fc496c56.webp",
+      "/images/products/uc-gym-heavytee-back_28262461.webp",
+      "/images/products/uc-gym-heavytee-detail_3313593e.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-gym-heavytee-front_fc496c56.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-gym-heavytee-back_28262461.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-gym-heavytee-detail_3313593e.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#0B0B0B"
+      },
+      {
+        "name": "Washed Ash",
+        "hex": "#444444"
+      },
+      {
+        "name": "Vintage Bone",
+        "hex": "#DDD7CD"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy Oversized Fit. Size down for regular oversized.",
+    "fabric": "100% Dense Combed Cotton (300 GSM) with silicone enzyme soft-wash.",
+    "care": "Machine wash cold inside out with similar darks. Flat dry. Do not bleach.",
+    "sku": "UC-GM-PC01",
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "isNewDrop": true,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "gym",
+      "pump cover",
+      "heavyweight",
+      "bestseller"
+    ],
+    "details": [
+      "300 GSM ultra-heavyweight combed ring-spun jersey",
+      "Thick 1.25\" ribbed collar with anti-sag construction",
+      "Subtle distressed silicone print on nape of neck",
+      "Pre-washed and pre-shrunk for permanent fit retention"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-04",
+      "uc-acc-01",
+      "uc-gym-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-gym-02",
+    "name": "RAW EDGE DEEP CUT MUSCLE STRINGER",
+    "slug": "raw-edge-deep-cut-muscle-stringer",
+    "tagline": "Low-drop Armholes. High-stretch Breathable Blend.",
+    "description": "Engineered for unrestricted lat mobility and thermal regulation. The raw-cut rolled edges give a battle-tested underground aesthetic while the bamboo-cotton blend wicks heat effortlessly.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 899,
+    "originalPrice": 1299,
+    "images": [
+      "/images/products/uc-gym-stringer-front_66a0fa92.webp",
+      "/images/products/uc-gym-stringer-back_28bab156.webp",
+      "/images/products/uc-gym-stringer-detail_4904d396.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-gym-stringer-front_66a0fa92.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-gym-stringer-back_28bab156.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-gym-stringer-detail_4904d396.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Faded Moss",
+        "hex": "#3B4237"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Athletic Taper with deep drop armhole and curved scallop hem.",
+    "fabric": "70% Combed Cotton, 25% Bamboo Viscose, 5% Elastane (220 GSM).",
+    "care": "Cold wash. Air dry only.",
+    "sku": "UC-GM-ST02",
+    "rating": 4.8,
+    "reviewsCount": 84,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "stringer",
+      "bodybuilding",
+      "athletic",
+      "gym"
+    ],
+    "details": [
+      "Scalloped drop-tail hem for full coverage during deadlifts",
+      "Zero side-seam chafing technology",
+      "Subtle tonal screenprint \"BELONG TO NO ONE\" on upper chest"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-04",
+      "uc-acc-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-gym-03",
+    "name": "SEAMLESS COMPRESSION BASELAYER TEE",
+    "slug": "seamless-compression-baselayer-tee",
+    "tagline": "Zonal Muscle Support. Second-Skin Thermal Armor.",
+    "description": "High-tensile compression top with targeted elastomeric ribbing across shoulder deltoids and back thoracic chain. Maximizes blood flow and proprioception during heavy compounds.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 1399,
+    "originalPrice": 1999,
+    "images": [
+      "/images/products/uc-gym-compression-front_2172bbdd.webp",
+      "/images/products/uc-gym-compression-back_c0bec4f4.webp",
+      "/images/products/uc-gym-compression-detail_eb12ee2c.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-gym-compression-front_2172bbdd.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-gym-compression-back_c0bec4f4.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-gym-compression-detail_eb12ee2c.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Midnight Charcoal",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Concrete Grey",
+        "hex": "#58595B"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "True Second-Skin High-Grade Compression. Stay true to size.",
+    "fabric": "82% Polyamide, 18% High-Grade Spandex with anti-microbial silver yarn.",
+    "care": "Cold gentle wash. Do not iron.",
+    "sku": "UC-GM-CP03",
+    "rating": 4.9,
+    "reviewsCount": 92,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "compression",
+      "performance",
+      "gym"
+    ],
+    "details": [
+      "Graduated mechanical compression helps reduce lactic fatigue",
+      "Flat-locked anti-abrasion seams",
+      "Reflective matte UC emblem on chest"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-04",
+      "uc-gym-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-gym-04",
+    "name": "PRO 5\" LINED TRAINING SHORTS",
+    "slug": "pro-5-inch-lined-training-shorts",
+    "tagline": "Integrated Phone Pocket. Ultra-Light 4-Way Stretch.",
+    "description": "Constructed with a featherlight 4-way stretch outer shell and an ultra-soft compression liner with dedicated bounce-free media sleeve and towel loop for heavy sessions.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 1199,
+    "originalPrice": 1699,
+    "images": [
+      "/images/products/uc-gym-shorts-front_b5941ec3.webp",
+      "/images/products/uc-gym-shorts-back_5f2e6d49.webp",
+      "/images/products/uc-gym-shorts-detail_09da6e3f.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-gym-shorts-front_b5941ec3.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-gym-shorts-back_5f2e6d49.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-gym-shorts-detail_09da6e3f.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Matte Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Desaturated Olive",
+        "hex": "#3E443A"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "5-inch inseam athletic above-knee cut with split side vents.",
+    "fabric": "Shell: 90% Hydrophobic Polyester, 10% Spandex; Liner: 88% Nylon, 12% Spandex.",
+    "care": "Machine wash cold. Hang dry.",
+    "sku": "UC-GM-SH04",
+    "rating": 4.8,
+    "reviewsCount": 147,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "shorts",
+      "5inch",
+      "training",
+      "gym"
+    ],
+    "details": [
+      "Built-in compression liner prevents chafing during squats and sprints",
+      "Reinforced internal phone pocket holds large phones with zero bounce",
+      "Rear waistband utility loop holds lifting straps or gym towel"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-01",
+      "uc-gym-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-gym-05",
+    "name": "ACID WASH FRENCH TERRY TRAINING JOGGERS",
+    "slug": "acid-wash-french-terry-training-joggers",
+    "tagline": "Heavy 380 GSM Cotton. Articulated Knee Panels.",
+    "description": "Heavyweight training joggers built for warm-ups and cold gym winters. Features zippered side pockets, articulated knee darts for squat clearance, and an adjustable heavy drawcord waistband.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 1799,
+    "originalPrice": 2499,
+    "images": [
+      "/images/products/uc-gym-joggers-front_5db93440.webp",
+      "/images/products/uc-gym-joggers-back_a73247eb.webp",
+      "/images/products/uc-gym-joggers-detail_29e7af3c.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-gym-joggers-front_5db93440.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-gym-joggers-back_a73247eb.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-gym-joggers-detail_29e7af3c.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Black",
+        "hex": "#262626"
+      },
+      {
+        "name": "Cement Grey",
+        "hex": "#63625E"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Tapered streetwear-gym hybrid silhouette.",
+    "fabric": "100% Ringspun French Terry (380 GSM).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-GM-JG05",
+    "rating": 4.7,
+    "reviewsCount": 76,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "joggers",
+      "heavyweight",
+      "gym"
+    ],
+    "details": [
+      "Deep dual YKK concealed zipper pockets",
+      "Articulated knee darts prevent knee bagging during heavy squats",
+      "Heavy-duty ribbed cuff hems"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-01",
+      "uc-hood-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-gym-06",
+    "name": "DROP ARMHOLE ACID WASH TANK",
+    "slug": "drop-armhole-acid-wash-tank",
+    "tagline": "Vintage Hand-Washed Cotton. Raw Edge Cutout.",
+    "description": "Individually acid-washed for a unique faded patina. Crafted with a relaxed drape and deep drop sides that showcase back definition and lat flare.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 799,
+    "originalPrice": 1199,
+    "images": [
+      "/images/categories/gym-cult/uc-gym-editorial-06_2d0f8141.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-07_7b2bf791.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-08_ad4d97b4.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-06_2d0f8141.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-07_7b2bf791.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-08_ad4d97b4.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Washed Charcoal",
+        "hex": "#2D2D2D"
+      },
+      {
+        "name": "Oxide Tan",
+        "hex": "#7A6B58"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Muscle Cut with dropped armholes.",
+    "fabric": "100% Combed Slub Cotton (240 GSM).",
+    "care": "Wash cold inside out.",
+    "sku": "UC-GM-TK06",
+    "rating": 4.6,
+    "reviewsCount": 52,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "tank",
+      "acid wash",
+      "gym"
+    ],
+    "details": [
+      "Raw cut armholes with reinforced safety bartacks",
+      "Mineral garment dye creates 1-of-1 wash variations"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-04"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-gym-07",
+    "name": "OVERSIZED MESH BREATHABLE WARMUP TEE",
+    "slug": "oversized-mesh-breathable-warmup-tee",
+    "tagline": "Heavy Double-Knit Perforated Mesh.",
+    "description": "A contemporary nod to 90s football jerseys reimagined for dark bodybuilding aesthetics. The breathable open-hole mesh structure maximizes airflow during cardio and high-intensity hypertrophy work.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 1199,
+    "originalPrice": 1599,
+    "images": [
+      "/images/categories/gym-cult/uc-gym-editorial-07_7b2bf791.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-08_ad4d97b4.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-09_310a49ea.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-07_7b2bf791.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-08_ad4d97b4.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-09_310a49ea.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black Mesh",
+        "hex": "#0F0F0F"
+      },
+      {
+        "name": "Raw White Mesh",
+        "hex": "#EBEBEB"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Oversized Boxy Dropped Shoulder.",
+    "fabric": "100% Technical Micro-Pore Eyelet Polyester (260 GSM).",
+    "care": "Cold delicate wash. Dry quickly.",
+    "sku": "UC-GM-MS07",
+    "rating": 4.8,
+    "reviewsCount": 63,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "mesh",
+      "warmup",
+      "oversized"
+    ],
+    "details": [
+      "Double-knit heavy sports eyelet structure",
+      "Embroidered monochrome UC crest on left chest"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-04"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-gym-08",
+    "name": "TACTICAL LIFTING UTILITY SHORTS 7\"",
+    "slug": "tactical-lifting-utility-shorts-7-inch",
+    "tagline": "Water-Repellent Ripstop Fabric. Dual Cargo Pockets.",
+    "description": "When durability is paramount. Engineered with heavy ripstop stretch woven fabric with reinforced bar-tacks for powerlifters and functional athletes who demand indestructible apparel.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 1399,
+    "originalPrice": 1899,
+    "images": [
+      "/images/categories/gym-cult/uc-gym-editorial-08_ad4d97b4.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-09_310a49ea.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-10_281e1f7d.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-08_ad4d97b4.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-09_310a49ea.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-10_281e1f7d.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Black Shadow",
+        "hex": "#161616"
+      },
+      {
+        "name": "Combat Olive",
+        "hex": "#34382F"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "7-inch inseam athletic utility fit sitting just above knee.",
+    "fabric": "88% Technical Ripstop Nylon, 12% Spandex with DWR coating.",
+    "care": "Cold wash. Low tumble dry.",
+    "sku": "UC-GM-TS08",
+    "rating": 4.9,
+    "reviewsCount": 44,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "utility",
+      "shorts",
+      "tactical"
+    ],
+    "details": [
+      "Deep zipper cargo pockets with matte black pullers",
+      "Heavy-duty elastic waistband with branded aglet drawcords"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-gym-09",
+    "name": "HEAVY COMPRESSION 3/4 TIGHTS",
+    "slug": "heavy-compression-three-quarter-tights",
+    "tagline": "Zonal Knee Stability. Ergonomic Seams.",
+    "description": "Designed to be worn under training shorts. Delivers high medical-grade compression across the quad and hamstring groups with reinforced moisture management.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 999,
+    "originalPrice": 1499,
+    "images": [
+      "/images/categories/gym-cult/uc-gym-editorial-09_310a49ea.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-10_281e1f7d.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-01_8b90cf40.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-09_310a49ea.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-10_281e1f7d.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-01_8b90cf40.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Stealth Black",
+        "hex": "#0D0D0D"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Tight high-compression 3/4 calf length.",
+    "fabric": "85% Recycled Polyester, 15% High-Tension Spandex.",
+    "care": "Machine wash cold.",
+    "sku": "UC-GM-TG09",
+    "rating": 4.7,
+    "reviewsCount": 38,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "tights",
+      "compression",
+      "gym"
+    ],
+    "details": [
+      "3/4 length sits securely at mid-calf",
+      "Thick non-slip jacquard waistband with woven UC typography"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-04"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-gym-10",
+    "name": "COLD RECOVERY OVERSIZED CREWNECK",
+    "slug": "cold-recovery-oversized-crewneck",
+    "tagline": "420 GSM Brushed Fleece. Dropped Shoulder Silhouette.",
+    "description": "The definitive pre and post training cocoon. Thick brushed interior traps warmth to keep muscle tissue primed during cold weather gym commutes.",
+    "category": "GYM CULT",
+    "categorySlug": "gym-cult",
+    "price": 1999,
+    "originalPrice": 2699,
+    "images": [
+      "/images/categories/gym-cult/uc-gym-editorial-10_281e1f7d.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-01_8b90cf40.webp",
+      "/images/categories/gym-cult/uc-gym-editorial-02_fa23b807.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-10_281e1f7d.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-01_8b90cf40.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/gym-cult/uc-gym-editorial-02_fa23b807.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Faded Carbon",
+        "hex": "#2B2B2B"
+      },
+      {
+        "name": "Stone Grey",
+        "hex": "#878580"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy Fit.",
+    "fabric": "100% Combed Cotton Fleece (420 GSM).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-GM-CR10",
+    "rating": 4.9,
+    "reviewsCount": 89,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "crewneck",
+      "fleece",
+      "heavyweight"
+    ],
+    "details": [
+      "420 GSM plush brushed fleece interior",
+      "Ribbed side gussets for enhanced freedom of movement"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-05"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-daily-01",
+    "name": "THE FOUNDATION 280 GSM OVERSIZED TEE",
+    "slug": "foundation-280gsm-oversized-tee",
+    "tagline": "Zero Distractions. The Ultimate Daily Drape.",
+    "description": "The cornerstone of the UNKNOWN CULT daily uniform. Carefully calibrated 280 GSM organic combed jersey that falls away from the body in clean, architectural lines with no cling.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 999,
+    "originalPrice": 1499,
+    "images": [
+      "/images/products/uc-daily-tee-front_d0a1250c.webp",
+      "/images/products/uc-daily-tee-back_fcadc9f5.webp",
+      "/images/products/uc-daily-tee-detail_ff3330b3.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-daily-tee-front_d0a1250c.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-daily-tee-back_fcadc9f5.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-daily-tee-detail_ff3330b3.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Washed Phantom",
+        "hex": "#141414"
+      },
+      {
+        "name": "Raw Bone",
+        "hex": "#EBE5DC"
+      },
+      {
+        "name": "Earth Khaki",
+        "hex": "#635D50"
+      },
+      {
+        "name": "Slate Taupe",
+        "hex": "#4B4742"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Oversized Boxy Cut. Elongated sleeves reaching elbows.",
+    "fabric": "100% Ring-Spun Combed Organic Cotton (280 GSM).",
+    "care": "Machine wash cold with mild detergent. Hang to dry in shade.",
+    "sku": "UC-DL-TS01",
+    "rating": 4.9,
+    "reviewsCount": 215,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "essential",
+      "oversized",
+      "tshirt",
+      "bestseller"
+    ],
+    "details": [
+      "Custom knitted 1.2\" high-density rib crew neck",
+      "Enzyme softened for lived-in vintage handfeel",
+      "Minimalist blind hem stitch detailing"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01",
+      "uc-daily-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-daily-02",
+    "name": "MINIMAL HEAVY KNIT DROP-SHOULDER POLO",
+    "slug": "minimal-heavy-knit-drop-shoulder-polo",
+    "tagline": "Collar without Buttons. Fluid Textured Cotton.",
+    "description": "An elevated take on the timeless polo. Features a sleek buttonless open Johnny collar, dropped shoulder seams, and dense waffle-knit texture that elevates your daily presence.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 1399,
+    "originalPrice": 1999,
+    "images": [
+      "/images/products/uc-daily-polo-front_a2b6846e.webp",
+      "/images/products/uc-daily-polo-back_c637bf24.webp",
+      "/images/products/uc-daily-polo-detail_b4e3b22f.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-daily-polo-front_a2b6846e.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-daily-polo-back_c637bf24.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-daily-polo-detail_b4e3b22f.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Matte Obsidian",
+        "hex": "#111111"
+      },
+      {
+        "name": "Oat Milk",
+        "hex": "#E8E3D7"
+      },
+      {
+        "name": "Dark Sage",
+        "hex": "#44493F"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Fluid Silhouette.",
+    "fabric": "100% Mercerized Pima Cotton Knit (270 GSM).",
+    "care": "Cold hand wash or delicate cycle. Flat dry.",
+    "sku": "UC-DL-PL02",
+    "rating": 4.8,
+    "reviewsCount": 94,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "polo",
+      "knitwear",
+      "minimal"
+    ],
+    "details": [
+      "Buttonless Johnny open collar",
+      "Ribbed knit hem and cuff trims",
+      "Breathable micro-texture knit"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-03",
+      "uc-acc-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-daily-03",
+    "name": "TAILORED RELAXED PLEATED TROUSERS",
+    "slug": "tailored-relaxed-pleated-trousers",
+    "tagline": "Deep Front Pleats. Subtle Drape. Elastic Back Waist.",
+    "description": "Bridging the space between formal sophistication and underground comfort. Engineered with double forward pleats, wide thighs, and a discreet elastic back waistband for all-day ease.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 1899,
+    "originalPrice": 2599,
+    "images": [
+      "/images/products/uc-daily-trousers-front_6f812c86.webp",
+      "/images/products/uc-daily-trousers-back_bb391f74.webp",
+      "/images/products/uc-daily-trousers-detail_eae947f2.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-daily-trousers-front_6f812c86.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-daily-trousers-back_bb391f74.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-daily-trousers-detail_eae947f2.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Soot Black",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Cement Grey",
+        "hex": "#7C7972"
+      },
+      {
+        "name": "Dark Umber",
+        "hex": "#3E342B"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "High-waisted relaxed straight fit with gentle break over footwear.",
+    "fabric": "65% Viscose, 32% Polyester, 3% Elastane (310 GSM heavy drape).",
+    "care": "Dry clean or cold delicate cycle inside laundry mesh bag.",
+    "sku": "UC-DL-TR03",
+    "rating": 4.9,
+    "reviewsCount": 112,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "trousers",
+      "pleated",
+      "tailored",
+      "relaxed"
+    ],
+    "details": [
+      "Hidden elasticated interior back waistband",
+      "Deep double front pleats for fluid silhouette movement",
+      "Slanted side slash pockets and rear welt pockets"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-shirt-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-daily-04",
+    "name": "LUXURY HEAVY RIBBED TANK TOP",
+    "slug": "luxury-heavy-ribbed-tank-top",
+    "tagline": "2x2 Heavy Cotton Rib. Sculpted Neckline.",
+    "description": "A luxurious ribbed foundation piece cut from dense 320 GSM 2x2 ribbed cotton. Holds its shape around the collar and arm openings all day without stretching out.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 699,
+    "originalPrice": 999,
+    "images": [
+      "/images/products/uc-daily-ls-front_af564fd4.webp",
+      "/images/products/uc-daily-ls-back_e6a86863.webp",
+      "/images/products/uc-daily-ls-detail_5bf08b90.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-daily-ls-front_af564fd4.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-daily-ls-back_e6a86863.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-daily-ls-detail_5bf08b90.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#0D0D0D"
+      },
+      {
+        "name": "Off White",
+        "hex": "#FAF7F0"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Fitted ribbed contour cut. Wear solo or as prime base layer.",
+    "fabric": "95% Organic Cotton, 5% Elastane (320 GSM 2x2 Rib).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-DL-TK04",
+    "rating": 4.8,
+    "reviewsCount": 68,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "tank",
+      "ribbed",
+      "layering"
+    ],
+    "details": [
+      "Durable double-needle binding on neckline and armholes",
+      "Generous length to stay tucked comfortably when desired"
+    ],
+    "complementaryProductIds": [
+      "uc-shirt-01",
+      "uc-daily-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-daily-05",
+    "name": "GARMENT-DYED RELAXED SLUB LONGSLEEVE",
+    "slug": "garment-dyed-relaxed-slub-longsleeve",
+    "tagline": "260 GSM Textured Slub. Stepped Hem.",
+    "description": "Textured horizontal slub cotton with subtle natural variations. Features ribbed cuffs that sit firmly on wrists and an asymmetrical stepped side-slit hem for effortless layering.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 1199,
+    "originalPrice": 1699,
+    "images": [
+      "/images/products/uc-daily-shorts-front_a1a5f720.webp",
+      "/images/products/uc-daily-shorts-back_ffd9e498.webp",
+      "/images/products/uc-daily-shorts-detail_a4dc60d8.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-daily-shorts-front_a1a5f720.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-daily-shorts-back_ffd9e498.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-daily-shorts-detail_a4dc60d8.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Faded Black",
+        "hex": "#212121"
+      },
+      {
+        "name": "Raw Sand",
+        "hex": "#D6CDBF"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Drop-Shoulder.",
+    "fabric": "100% Organic Slub Cotton (260 GSM).",
+    "care": "Machine wash cold.",
+    "sku": "UC-DL-LS05",
+    "rating": 4.7,
+    "reviewsCount": 45,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "longsleeve",
+      "slub",
+      "essentials"
+    ],
+    "details": [
+      "Side split vents with reinforced bar-tacks",
+      "Garment-dyed for rich tonal depth"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-daily-06",
+    "name": "MINIMAL LINEN-COTTON CAMP SHORT",
+    "slug": "minimal-linen-cotton-camp-short",
+    "tagline": "Breathable Natural Texture. Deep Pockets.",
+    "description": "Blended from Belgian flax linen and combed cotton for the optimal balance of summer breathability and structural weight.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 1099,
+    "originalPrice": 1599,
+    "images": [
+      "/images/categories/daily-essentials/uc-daily-editorial-06_05f1236e.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-07_633c220b.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-08_3c7b5017.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-06_05f1236e.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-07_633c220b.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-08_3c7b5017.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#2C2C2C"
+      },
+      {
+        "name": "Natural Ecru",
+        "hex": "#EBE5D8"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed 6.5\" inseam camp cut.",
+    "fabric": "55% Belgian Linen, 45% Organic Cotton (240 GSM).",
+    "care": "Cold wash gentle. Air dry.",
+    "sku": "UC-DL-SH06",
+    "rating": 4.8,
+    "reviewsCount": 39,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "linen",
+      "shorts",
+      "summer"
+    ],
+    "details": [
+      "Drawstring interior waistband with antique gunmetal eyelets",
+      "Deep slash pockets engineered to prevent phone spillage"
+    ],
+    "complementaryProductIds": [
+      "uc-shirt-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-daily-07",
+    "name": "MONOCHROME WAFFLE THERMAL TEE",
+    "slug": "monochrome-waffle-thermal-tee",
+    "tagline": "Micro-Grid Thermal Knit. Raglan Sleeve.",
+    "description": "Engineered with a dense micro-waffle grid weave that traps a layer of air against skin for thermal regulation across varying temperatures.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 1299,
+    "originalPrice": 1799,
+    "images": [
+      "/images/categories/daily-essentials/uc-daily-editorial-07_633c220b.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-08_3c7b5017.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-09_b7eb9d54.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-07_633c220b.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-08_3c7b5017.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-09_b7eb9d54.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Black Shadow",
+        "hex": "#141414"
+      },
+      {
+        "name": "Heather Clay",
+        "hex": "#8C8379"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Standard Relaxed Fit.",
+    "fabric": "100% Combed Cotton Waffle Knit (310 GSM).",
+    "care": "Machine wash cold.",
+    "sku": "UC-DL-WF07",
+    "rating": 4.8,
+    "reviewsCount": 51,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "thermal",
+      "waffle",
+      "daily"
+    ],
+    "details": [
+      "Raglan sleeve construction eliminates shoulder seam friction",
+      "Ribbed stretch cuffs and collar"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-daily-08",
+    "name": "HEAVY TWILL EASY CHINO PANT",
+    "slug": "heavy-twill-easy-chino-pant",
+    "tagline": "Japanese Compact Twill. Relaxed Taper.",
+    "description": "Built with dense 340 GSM Japanese combed cotton twill. Features clean external styling with a hidden internal elastic waistband.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 1799,
+    "originalPrice": 2399,
+    "images": [
+      "/images/categories/daily-essentials/uc-daily-editorial-08_3c7b5017.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-09_b7eb9d54.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-10_53525f94.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-08_3c7b5017.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-09_b7eb9d54.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-10_53525f94.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#121212"
+      },
+      {
+        "name": "Stone Grey",
+        "hex": "#666560"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Tapered Fit.",
+    "fabric": "98% Cotton Compact Twill, 2% Spandex (340 GSM).",
+    "care": "Cold machine wash.",
+    "sku": "UC-DL-CH08",
+    "rating": 4.7,
+    "reviewsCount": 42,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "chino",
+      "twill",
+      "pants"
+    ],
+    "details": [
+      "Pre-washed with soft enzyme bath to soften twill weave",
+      "YKK metal zip fly and custom matte cult button"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-daily-09",
+    "name": "OVERSIZED RAW-HEM DAILY CREW",
+    "slug": "oversized-raw-hem-daily-crew",
+    "tagline": "Unfinished Hemline. Heavyweight Cotton.",
+    "description": "A relaxed everyday staple with intentional unfinished hem details that naturally roll over time for character.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 1099,
+    "originalPrice": 1599,
+    "images": [
+      "/images/categories/daily-essentials/uc-daily-editorial-09_b7eb9d54.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-10_53525f94.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-01_4f81975d.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-09_b7eb9d54.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-10_53525f94.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-01_4f81975d.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Faded Black",
+        "hex": "#232323"
+      },
+      {
+        "name": "Vintage White",
+        "hex": "#EDE8DF"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Boxy Drop Shoulder.",
+    "fabric": "100% Heavy Combed Cotton (290 GSM).",
+    "care": "Cold wash inside out.",
+    "sku": "UC-DL-RH09",
+    "rating": 4.8,
+    "reviewsCount": 37,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "raw hem",
+      "crew",
+      "daily"
+    ],
+    "details": [
+      "Safety lockstitch prevents raw hem from fraying past 0.5 inches",
+      "Thick neckline ribbing"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-daily-10",
+    "name": "THE ESSENTIAL HEAVY ZIP POLO",
+    "slug": "the-essential-heavy-zip-polo",
+    "tagline": "Gunmetal Half-Zip. Structured Heavy Piqué.",
+    "description": "Modernized with an industrial gunmetal half-zip closure and dropped shoulders. Pairs effortlessly with relaxed trousers or raw denim.",
+    "category": "DAILY ESSENTIALS",
+    "categorySlug": "daily-essentials",
+    "price": 1499,
+    "originalPrice": 1999,
+    "images": [
+      "/images/categories/daily-essentials/uc-daily-editorial-10_53525f94.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-01_4f81975d.webp",
+      "/images/categories/daily-essentials/uc-daily-editorial-02_41efa12f.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-10_53525f94.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-01_4f81975d.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/daily-essentials/uc-daily-editorial-02_41efa12f.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Black Noir",
+        "hex": "#111111"
+      },
+      {
+        "name": "Dark Clay",
+        "hex": "#5E5246"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Boxy Relaxed.",
+    "fabric": "100% Organic Double Piqué Cotton (280 GSM).",
+    "care": "Cold gentle cycle.",
+    "sku": "UC-DL-ZP10",
+    "rating": 4.9,
+    "reviewsCount": 65,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "polo",
+      "zip",
+      "essential"
+    ],
+    "details": [
+      "Custom gunmetal geometric UC puller",
+      "Structured flat-knit collar that stays upright"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-street-01",
+    "name": "ANARCHY PROTOCOL DISTRESSED GRAPHIC TEE",
+    "slug": "anarchy-protocol-distressed-graphic-tee",
+    "tagline": "Acid Vintage Wash. Hand-Distressed Collar & Hem.",
+    "description": "Inspired by underground club fliers and cyberpunk street rebellions. Each piece undergoes a 4-hour stone enzyme acid wash and selective hand-grinding along the neck ribbing and sleeve cuffs.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1399,
+    "originalPrice": 1999,
+    "images": [
+      "/images/products/uc-street-heavytee-front_8b601007.webp",
+      "/images/products/uc-street-heavytee-back_369561f2.webp",
+      "/images/products/uc-street-heavytee-detail_c44e8d0e.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-street-heavytee-front_8b601007.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-street-heavytee-back_369561f2.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-street-heavytee-detail_c44e8d0e.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Black",
+        "hex": "#262626"
+      },
+      {
+        "name": "Oxide Dust",
+        "hex": "#736B5E"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Ultra-Oversized Boxy Silhouette with elongated sleeves.",
+    "fabric": "100% Vintage Combed Cotton (300 GSM) with stone-wash distressing.",
+    "care": "Cold hand wash or gentle cycle inside out. Air dry only.",
+    "sku": "UC-ST-AP01",
+    "rating": 5,
+    "reviewsCount": 184,
+    "isNewDrop": true,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "streetwear",
+      "distressed",
+      "graphic tee",
+      "bestseller"
+    ],
+    "details": [
+      "300 GSM heavyweight French cotton jersey",
+      "Cracked discharge print that ages uniquely with every wash",
+      "Manual collar and hem distressing (1-of-1 variance per garment)",
+      "Woven damask \"BELONG TO NO ONE\" signature tag at hem"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01",
+      "uc-acc-01",
+      "uc-outer-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-street-02",
+    "name": "DYSTOPIA CYBERGRAPH OVERSIZED TEE",
+    "slug": "dystopia-cybergraph-oversized-tee",
+    "tagline": "High-Density Puff Print. Dropped Shoulder Cut.",
+    "description": "Featuring three-dimensional high-density silicone puff typography across the back span. Constructed from 290 GSM combed cotton with reinforced shoulder tapes.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1299,
+    "originalPrice": 1799,
+    "images": [
+      "/images/products/uc-street-distressed-front_c1b061f1.webp",
+      "/images/products/uc-street-distressed-back_0f433653.webp",
+      "/images/products/uc-street-distressed-detail_df7c95b4.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-street-distressed-front_c1b061f1.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-street-distressed-back_0f433653.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-street-distressed-detail_df7c95b4.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#0B0B0B"
+      },
+      {
+        "name": "Bleached Chalk",
+        "hex": "#EBE7DE"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy Fit.",
+    "fabric": "100% Combed Cotton (290 GSM).",
+    "care": "Machine wash cold inside out. Do not iron directly on print.",
+    "sku": "UC-ST-DC02",
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "puff print",
+      "streetwear",
+      "oversized"
+    ],
+    "details": [
+      "Tactile 3D silicone puff print on rear spine",
+      "Reinforced neckband with twin-needle chainstitch"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-02",
+      "uc-acc-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-street-03",
+    "name": "UNDERGROUND ECHOES ACID WASH HOODIE",
+    "slug": "underground-echoes-acid-wash-hoodie",
+    "tagline": "480 GSM Double-Face Fleece. Raw Distress Trim.",
+    "description": "A heavyweight beast of a hoodie. Hand-treated with mineral wash chemicals to produce an authentic 90s grunge aesthetic with modern street proportions.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 2499,
+    "originalPrice": 3499,
+    "images": [
+      "/images/products/uc-street-graphictee-front_5058e6da.webp",
+      "/images/products/uc-street-graphictee-back_217bd713.webp",
+      "/images/products/uc-street-graphictee-detail_a754c8ae.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-street-graphictee-front_5058e6da.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-street-graphictee-back_217bd713.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-street-graphictee-detail_a754c8ae.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Smoke",
+        "hex": "#303030"
+      },
+      {
+        "name": "Mineral Rust",
+        "hex": "#634433"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Very oversized boxy drape. Double layered crossover hood.",
+    "fabric": "100% Cotton Ultra-Dense French Terry (480 GSM).",
+    "care": "Wash cold inside out. Hang dry only.",
+    "sku": "UC-ST-HD03",
+    "rating": 4.9,
+    "reviewsCount": 167,
+    "isNewDrop": true,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "hoodie",
+      "acid wash",
+      "streetwear",
+      "heavyweight"
+    ],
+    "details": [
+      "Custom crossover hood construction with no cheap drawstrings",
+      "Deep kangaroo pocket with interior hidden phone stash compartment"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01",
+      "uc-acc-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-street-04",
+    "name": "REBEL SYSTEM OVERSIZED SHACKET",
+    "slug": "rebel-system-oversized-shacket",
+    "tagline": "Heavy Denim Canvas. D-Ring Utility Detailing.",
+    "description": "Heavyweight canvas shirt-jacket hybrid featuring dual oversized bellows pockets with matte black D-rings and snap button placket.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 2199,
+    "originalPrice": 2999,
+    "images": [
+      "/images/products/uc-street-jeans-front_893e5375.webp",
+      "/images/products/uc-street-jeans-back_157f73f6.webp",
+      "/images/products/uc-street-jeans-detail_f2274d40.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-street-jeans-front_893e5375.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-street-jeans-back_157f73f6.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-street-jeans-detail_f2274d40.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Washed Black Denim",
+        "hex": "#1F1F1F"
+      },
+      {
+        "name": "Raw Olive",
+        "hex": "#393D33"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Oversized Layering Shacket.",
+    "fabric": "100% Heavy Cotton Bull Denim (360 GSM).",
+    "care": "Cold gentle wash. Line dry.",
+    "sku": "UC-ST-SK04",
+    "rating": 4.8,
+    "reviewsCount": 78,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "shacket",
+      "denim",
+      "streetwear"
+    ],
+    "details": [
+      "Military-spec metal matte black snap buttons",
+      "Reinforced shoulder yoke and drop armholes"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01",
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-street-05",
+    "name": "NO ESCAPE DISTRESSED CREWNECK",
+    "slug": "no-escape-distressed-crewneck",
+    "tagline": "Hand-Cut Neckline Slits. French Terry.",
+    "description": "Finished with intentional collar distressing and micro abrasions at cuff edges. Bold distressed typography across chest declaring \"NO SYSTEM OWNS ME\".",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1999,
+    "originalPrice": 2699,
+    "images": [
+      "/images/products/uc-street-shorts-front_f462b624.webp",
+      "/images/products/uc-street-shorts-back_6b86c022.webp",
+      "/images/products/uc-street-shorts-detail_c99fd6f3.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-street-shorts-front_f462b624.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-street-shorts-back_6b86c022.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-street-shorts-detail_c99fd6f3.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Soot Ash",
+        "hex": "#262626"
+      },
+      {
+        "name": "Bone White",
+        "hex": "#EBE7DF"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Boxy Cropped Body with exaggerated sleeve length.",
+    "fabric": "100% Combed Cotton Loopback Terry (400 GSM).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-ST-CR05",
+    "rating": 4.7,
+    "reviewsCount": 59,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "crewneck",
+      "distressed",
+      "streetwear"
+    ],
+    "details": [
+      "Discharge print penetrates cotton fibers without plastic texture",
+      "Custom woven identity tag"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-street-06",
+    "name": "CYBER-PUNK OVERSIZED GRAPHIC TEE",
+    "slug": "cyber-punk-oversized-graphic-tee",
+    "tagline": "Japanese Kanji & Brutalist Monogram Backprint.",
+    "description": "An aggressive tribute to underground Tokyo nightlife. High-contrast monochrome artwork screenprinted with metallic silver foil highlights.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1299,
+    "originalPrice": 1799,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-06_1fb1abe8.webp",
+      "/images/categories/street-cult/uc-street-editorial-07_80427c88.webp",
+      "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-06_1fb1abe8.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-07_80427c88.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#0B0B0B"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy Cut.",
+    "fabric": "100% Ringspun Heavy Cotton (290 GSM).",
+    "care": "Cold wash inside out.",
+    "sku": "UC-ST-CP06",
+    "rating": 4.8,
+    "reviewsCount": 93,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "graphic tee",
+      "cyberpunk",
+      "streetwear"
+    ],
+    "details": [
+      "Screenprinted with eco-friendly plastisol ink",
+      "Heavy ribbed collar that will never bacon"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-street-07",
+    "name": "SPLIT-COLOR RAW SEAM STREET SHIRT",
+    "slug": "split-color-raw-seam-street-shirt",
+    "tagline": "Asymmetric Two-Tone Construction. Contrast Stitch.",
+    "description": "Deconstructed street shirt featuring two contrasting shades of vintage washed canvas joined by exposed flatlock raw seams down the center back.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1699,
+    "originalPrice": 2299,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-07_80427c88.webp",
+      "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp",
+      "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-07_80427c88.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Charcoal & Bone",
+        "hex": "#242424"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "Oversized Boxy Silhouette.",
+    "fabric": "100% Garment-Washed Heavy Cotton Poplin (240 GSM).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-ST-SC07",
+    "rating": 4.9,
+    "reviewsCount": 44,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "shirt",
+      "deconstructed",
+      "raw seam"
+    ],
+    "details": [
+      "Exposed contrast raw edge seams",
+      "Matte black snap buttons"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-street-08",
+    "name": "TACTICAL MESH PANEL OVERSIZED TEE",
+    "slug": "tactical-mesh-panel-oversized-tee",
+    "tagline": "Cotton-Nylon Inset Panels. Key Carabiner Loop.",
+    "description": "Tactical street wear fused with breathable underarm and flank mesh inserts. Includes an industrial webbed loop on left hem for keys or carabiners.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1299,
+    "originalPrice": 1699,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp",
+      "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp",
+      "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Triple Black",
+        "hex": "#0F0F0F"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Wide Boxy Cut.",
+    "fabric": "Main: 100% Cotton 280 GSM; Panels: Heavy Polyester Mesh.",
+    "care": "Cold wash inside laundry bag.",
+    "sku": "UC-ST-TM08",
+    "rating": 4.7,
+    "reviewsCount": 36,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "tactical",
+      "mesh",
+      "streetwear"
+    ],
+    "details": [
+      "Reinforced nylon webbing clip loop at waistband",
+      "Ventilated side mesh panels"
+    ],
+    "complementaryProductIds": [
+      "uc-acc-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-street-09",
+    "name": "GLITCH REALITY HEAVYWEIGHT LONGSLEEVE",
+    "slug": "glitch-reality-heavyweight-longsleeve",
+    "tagline": "Multi-Sleeve High Density Typography Prints.",
+    "description": "Heavyweight longsleeve tee with typographic statements running down both forearms and an eerie digitized glitch art chest graphic.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1399,
+    "originalPrice": 1899,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp",
+      "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp",
+      "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Washed Black",
+        "hex": "#212121"
+      },
+      {
+        "name": "Bone",
+        "hex": "#EBE6DC"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Drop-Shoulder Boxy.",
+    "fabric": "100% Combed Heavy Cotton (280 GSM).",
+    "care": "Machine wash cold.",
+    "sku": "UC-ST-GL09",
+    "rating": 4.8,
+    "reviewsCount": 62,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "longsleeve",
+      "graphic",
+      "streetwear"
+    ],
+    "details": [
+      "Thick 2\" elasticized ribbed cuffs",
+      "Dual sleeve screenprint hit"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-street-10",
+    "name": "VINTAGE WASHED OVERSIZED BAND-STYLE TEE",
+    "slug": "vintage-washed-oversized-band-style-tee",
+    "tagline": "Double-Enzyme Stone Wash. Distressed Band Graphic.",
+    "description": "Echoing the holy grail vintage concert tees of the early 90s, complete with cracked discharge ink and aged faded black tonal nuances.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1399,
+    "originalPrice": 1899,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp",
+      "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp",
+      "/images/categories/street-cult/uc-street-editorial-02_86ee0c16.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-02_86ee0c16.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Vintage Faded Charcoal",
+        "hex": "#2E2E2E"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy 90s Fit.",
+    "fabric": "100% Combed Cotton 300 GSM.",
+    "care": "Cold gentle wash.",
+    "sku": "UC-ST-VN10",
+    "rating": 4.9,
+    "reviewsCount": 118,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "vintage",
+      "band tee",
+      "distressed"
+    ],
+    "details": [
+      "Authentic cracked wash print",
+      "Heavy single-stitch sleeve hem construction"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-street-11",
+    "name": "TACTICAL CHEST HARNESS RIG OVERLAY",
+    "slug": "tactical-chest-harness-rig-overlay",
+    "tagline": "Modular Ballistic Nylon. Quick-Release Buckles.",
+    "description": "A signature underground accessory to be layered over oversized tees and hoodies. Features dual zippered tactical pouches and adjustable cross-back harness webbing.",
+    "category": "STREET CULT",
+    "categorySlug": "street-cult",
+    "price": 1499,
+    "originalPrice": 2199,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp",
+      "/images/categories/street-cult/uc-street-editorial-02_86ee0c16.webp",
+      "/images/categories/street-cult/uc-street-editorial-03_3ae402ba.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-02_86ee0c16.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-03_3ae402ba.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Stealth Black",
+        "hex": "#0B0B0B"
+      }
+    ],
+    "sizes": [
+      "FREE SIZE"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Fully Adjustable Cross-Back Straps fits chest 34\"-48\".",
+    "fabric": "1000D Cordura Nylon with military-spec acetal quick-release buckles.",
+    "care": "Wipe clean with damp cloth.",
+    "sku": "UC-ST-HR11",
+    "rating": 4.9,
+    "reviewsCount": 71,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "tactical",
+      "chest rig",
+      "accessories",
+      "streetwear"
+    ],
+    "details": [
+      "Waterproof PU coated zippers with tactile cord pulls",
+      "Modular MOLLE webbing attachment points on front facade"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01",
+      "uc-hood-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-baggy-01",
+    "name": "HEAVYWEIGHT MULTI-POCKET CARGO PANTS",
+    "slug": "heavyweight-multi-pocket-cargo-pants",
+    "tagline": "8-Pocket Modular Layout. Bungee Hem Adjusters.",
+    "description": "Engineered with 400 GSM Japanese cotton twill. Features accordion cargo bellows with concealed magnetic closures, articulated knee pleats, and bungee drawcords at hems to switch instantly between straight wide-leg and stacked parachute silhouettes.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 2299,
+    "originalPrice": 3199,
+    "images": [
+      "/images/products/uc-baggy-jeans-front_831f2c27.webp",
+      "/images/products/uc-baggy-jeans-back_b1a4bb45.webp",
+      "/images/products/uc-baggy-jeans-detail_b0c4efac.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-baggy-jeans-front_831f2c27.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-baggy-jeans-back_b1a4bb45.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-baggy-jeans-detail_b0c4efac.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Tactical Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Desaturated Olive",
+        "hex": "#3B4034"
+      },
+      {
+        "name": "Cement Slate",
+        "hex": "#585958"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Wide-Leg Baggy Silhouette with optional stacked hem cinching.",
+    "fabric": "100% High-Density Japanese Cotton Twill (400 GSM) with silicone wash.",
+    "care": "Machine wash cold with like colors. Air dry flat.",
+    "sku": "UC-BG-CG01",
+    "rating": 5,
+    "reviewsCount": 230,
+    "isNewDrop": true,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "cargos",
+      "baggy",
+      "utility",
+      "bestseller"
+    ],
+    "details": [
+      "8 independent utility pockets including concealed zippered passport pocket",
+      "Dual bungee hem cinch cords with anodized alloy cord-locks",
+      "Double-ply seat and knee reinforcement panels for extreme durability",
+      "Heavy-duty YKK metal zipper and gunmetal cult waist button"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01",
+      "uc-hood-01",
+      "uc-acc-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-baggy-02",
+    "name": "WIDE-LEG RAW VINTAGE WASH DENIM",
+    "slug": "wide-leg-raw-vintage-wash-denim",
+    "tagline": "14.5oz Rigid Selvedge Character. Puddle Hem.",
+    "description": "Non-stretch 14.5oz denim with a clean wide leg that pools dramatically over sneakers. Hand-washed to reveal rich whisker detailing and a stonewashed charcoal cast.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 2499,
+    "originalPrice": 3499,
+    "images": [
+      "/images/products/uc-carpenter-pants-front_c98d8dc5.webp",
+      "/images/products/uc-carpenter-pants-back_ee2d7621.webp",
+      "/images/products/uc-carpenter-pants-detail_91bd8914.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-carpenter-pants-front_c98d8dc5.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-carpenter-pants-back_ee2d7621.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-carpenter-pants-detail_91bd8914.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Vintage Washed Black",
+        "hex": "#1E1E1E"
+      },
+      {
+        "name": "Subversive Indigo",
+        "hex": "#232D3F"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Authentic 90s skater wide-leg cut with 22\" leg opening.",
+    "fabric": "100% Heavy Ringspun Denim Cotton (14.5 oz).",
+    "care": "Wash seldom. Cold gentle cycle inside out. Line dry.",
+    "sku": "UC-BG-DN02",
+    "rating": 4.9,
+    "reviewsCount": 156,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "denim",
+      "baggy",
+      "vintage",
+      "wide leg"
+    ],
+    "details": [
+      "14.5 oz non-stretch heavyweight denim that molds to your body",
+      "Custom debossed matte black leather back patch",
+      "Hidden coin pocket with embroidered UC logo"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-hood-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-baggy-03",
+    "name": "ULTRALIGHT NYLON PARACHUTE PANTS",
+    "slug": "ultralight-nylon-parachute-pants",
+    "tagline": "Matte Taslan Ripstop. Balloon Silhouette.",
+    "description": "Cut with immense volume through the thigh and calf. Crafted from crisp crinkle Taslan nylon that creates satisfying kinetic movement while walking.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 1899,
+    "originalPrice": 2599,
+    "images": [
+      "/images/products/uc-parachute-pants-front_456f23bf.webp",
+      "/images/products/uc-parachute-pants-back_6075fb8a.webp",
+      "/images/products/uc-parachute-pants-detail_3e3409da.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-parachute-pants-front_456f23bf.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-parachute-pants-back_6075fb8a.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-parachute-pants-detail_3e3409da.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#101010"
+      },
+      {
+        "name": "Desert Sand",
+        "hex": "#7E7667"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Balloon Parachute Silhouette.",
+    "fabric": "100% Water-Resistant Crinkle Nylon Taslan (180 GSM).",
+    "care": "Cold gentle wash. Line dry quickly.",
+    "sku": "UC-BG-PR03",
+    "rating": 4.8,
+    "reviewsCount": 88,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "parachute",
+      "nylon",
+      "baggy"
+    ],
+    "details": [
+      "Full elastic waistband with external heavy-gauge drawcord",
+      "Dual knee pleats for maximum volume architecture",
+      "Elastic cord hems with toggles"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-01",
+      "uc-street-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-baggy-04",
+    "name": "DOUBLE-KNEE HEAVY WORKWEAR PANT",
+    "slug": "double-knee-heavy-workwear-pant",
+    "tagline": "12oz Duck Canvas. Riveted Double-Front Panels.",
+    "description": "A brutalist reinterpretation of classic American carpenter workwear. Reinforced with full-length riveted front leg panels and utility tool pockets.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 2399,
+    "originalPrice": 3299,
+    "images": [
+      "/images/products/uc-tactical-pants-front_aefe5bfa.webp",
+      "/images/products/uc-tactical-pants-back_7ea2c1b0.webp",
+      "/images/products/uc-tactical-pants-detail_6641cf62.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-tactical-pants-front_aefe5bfa.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-tactical-pants-back_7ea2c1b0.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-tactical-pants-detail_6641cf62.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Washed Black Duck",
+        "hex": "#1C1C1C"
+      },
+      {
+        "name": "Caramel Rust",
+        "hex": "#704D36"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Straight Workwear Cut.",
+    "fabric": "100% Heavy Combed Cotton Duck Canvas (380 GSM).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-BG-DK04",
+    "rating": 4.9,
+    "reviewsCount": 97,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "double knee",
+      "carpenter",
+      "workwear"
+    ],
+    "details": [
+      "Matte gunmetal hardware rivets on all strain points",
+      "Side utility hammer loop and dual carpenter thigh pockets"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-street-04"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-baggy-05",
+    "name": "BALLOON HEM CHILL FLEECE SWEATPANTS",
+    "slug": "balloon-hem-chill-fleece-sweatpants",
+    "tagline": "460 GSM Heavy Loopback. Massive Proportions.",
+    "description": "The heavyweight sanctuary for your lower half. Cut with radical width through the leg that gathers sharply into a tight gathered ankle cuff.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 1999,
+    "originalPrice": 2699,
+    "images": [
+      "/images/products/uc-utility-cargo-front_e2821713.webp",
+      "/images/products/uc-utility-cargo-back_7fd637b6.webp",
+      "/images/products/uc-utility-cargo-detail_f08c4d0f.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-utility-cargo-front_e2821713.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-utility-cargo-back_7fd637b6.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-utility-cargo-detail_f08c4d0f.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Soot Black",
+        "hex": "#1B1B1B"
+      },
+      {
+        "name": "Heather Stone",
+        "hex": "#8C8983"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Super Wide Balloon Silhouette.",
+    "fabric": "100% Heavy Ringspun French Terry (460 GSM).",
+    "care": "Machine wash cold.",
+    "sku": "UC-BG-BL05",
+    "rating": 4.8,
+    "reviewsCount": 114,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "sweatpants",
+      "fleece",
+      "heavyweight"
+    ],
+    "details": [
+      "Ultra-thick 2.5\" ribbed waistband with internal thick cotton cord",
+      "Deep jersey-lined pockets that keep pockets hidden when loaded"
+    ],
+    "complementaryProductIds": [
+      "uc-hood-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-baggy-06",
+    "name": "ZIP-EXPANDABLE FLARE CARGO TROUSERS",
+    "slug": "zip-expandable-flare-cargo-trousers",
+    "tagline": "Side Seam YKK Gussets. Transforms from Straight to Flare.",
+    "description": "Transformative engineering. Full-length side seam zippers open to reveal heavy contrast gusset panels, allowing the wearer to vary leg volume at will.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 2499,
+    "originalPrice": 3399,
+    "images": [
+      "/images/categories/baggy-utility/uc-baggy-editorial-06_69f457f5.webp",
+      "/images/categories/baggy-utility/uc-baggy-editorial-07_b2cc2db4.webp",
+      "/images/categories/baggy-utility/uc-baggy-editorial-08_ac6c3efc.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-06_69f457f5.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-07_b2cc2db4.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-08_ac6c3efc.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Dark Pitch",
+        "hex": "#121212"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Customizable Straight-to-Flare Fit.",
+    "fabric": "97% Heavy Cotton Twill, 3% Elastane (360 GSM).",
+    "care": "Machine wash cold.",
+    "sku": "UC-BG-ZF06",
+    "rating": 4.9,
+    "reviewsCount": 73,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "zipper flare",
+      "cargos",
+      "utility"
+    ],
+    "details": [
+      "Two-way continuous heavy metal side zippers",
+      "Gusset panels expand leg opening by 5 inches"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-baggy-07",
+    "name": "TACTICAL STRAP OVERSIZED COMBAT SHORT",
+    "slug": "tactical-strap-oversized-combat-short",
+    "tagline": "Knee-Length Wide Cut. Modular Buckled Webbing.",
+    "description": "Wide-cut combat shorts with heavy nylon webbing harness straps that drape across outer thighs with quick-release side clasps.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 1599,
+    "originalPrice": 2199,
+    "images": [
+      "/images/categories/baggy-utility/uc-baggy-editorial-07_b2cc2db4.webp",
+      "/images/categories/baggy-utility/uc-baggy-editorial-08_ac6c3efc.webp",
+      "/images/categories/baggy-utility/uc-baggy-editorial-09_aab0fdb6.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-07_b2cc2db4.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-08_ac6c3efc.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-09_aab0fdb6.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Black Oxide",
+        "hex": "#131313"
+      },
+      {
+        "name": "Army Drab",
+        "hex": "#373B30"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Wide Knee-Length Fit.",
+    "fabric": "Heavy Cotton Ripstop (320 GSM).",
+    "care": "Cold wash gentle.",
+    "sku": "UC-BG-CS07",
+    "rating": 4.7,
+    "reviewsCount": 50,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "combat shorts",
+      "baggy",
+      "utility"
+    ],
+    "details": [
+      "Removable tactical nylon harness clip straps",
+      "Dual pleated bellows cargo pockets"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-baggy-08",
+    "name": "RAW BLEACHED DISTRESSED SKATER JEANS",
+    "slug": "raw-bleached-distressed-skater-jeans",
+    "tagline": "Chlorine Splatter Wash. Hand-Slashed Knees.",
+    "description": "Radical grunge aesthetics. Treated with random chlorine bleach wash splatters and hand-slashed raw denim threads across knees and back pockets.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 2599,
+    "originalPrice": 3599,
+    "images": [
+      "/images/categories/baggy-utility/uc-baggy-editorial-08_ac6c3efc.webp",
+      "/images/categories/baggy-utility/uc-baggy-editorial-09_aab0fdb6.webp",
+      "/images/categories/baggy-utility/uc-baggy-editorial-10_a8c10ef8.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-08_ac6c3efc.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-09_aab0fdb6.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-10_a8c10ef8.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Black Splatter",
+        "hex": "#2B2B2B"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "Ultra Baggy Skater Cut.",
+    "fabric": "100% Ringspun Denim (14oz).",
+    "care": "Cold gentle wash. Air dry.",
+    "sku": "UC-BG-SK08",
+    "rating": 4.8,
+    "reviewsCount": 61,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "distressed denim",
+      "skater",
+      "baggy"
+    ],
+    "details": [
+      "Individually splattered and abraded by hand",
+      "Reinforced internal pocket bags prevent tearing"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01",
+      "uc-hood-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-baggy-09",
+    "name": "MONOLITH MULTI-PLEAT BAGGY TROUSERS",
+    "slug": "monolith-multi-pleat-baggy-trousers",
+    "tagline": "Triple Forward Pleats. Heavy Suiting Twill.",
+    "description": "Dramatic architectural tailoring. Triple front pleats create a waterfall of fabric down the leg while maintaining a clean tailored waist.",
+    "category": "BAGGY & UTILITY",
+    "categorySlug": "baggy-utility",
+    "price": 2199,
+    "originalPrice": 2999,
+    "images": [
+      "/images/categories/baggy-utility/uc-baggy-editorial-09_aab0fdb6.webp",
+      "/images/categories/baggy-utility/uc-baggy-editorial-10_a8c10ef8.webp",
+      "/images/categories/baggy-utility/uc-baggy-editorial-01_6fd17b4f.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-09_aab0fdb6.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-10_a8c10ef8.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/baggy-utility/uc-baggy-editorial-01_6fd17b4f.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Midnight Charcoal",
+        "hex": "#181818"
+      },
+      {
+        "name": "Bone Taupe",
+        "hex": "#948D82"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Baggy Tailored Fit.",
+    "fabric": "70% Poly-Viscose, 28% Wool, 2% Spandex (330 GSM).",
+    "care": "Dry clean recommended.",
+    "sku": "UC-BG-MN09",
+    "rating": 4.9,
+    "reviewsCount": 82,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "pleated",
+      "tailored",
+      "baggy"
+    ],
+    "details": [
+      "Triple forward pleats create structural volume",
+      "Wide waistband with extended tab closure"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-shirt-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-hood-01",
+    "name": "FORTRESS 500 GSM HEAVYWEIGHT PULLOVER HOODIE",
+    "slug": "fortress-500gsm-heavyweight-pullover-hoodie",
+    "tagline": "Half-Kilo Double-Layer Fleece. Structured Crossover Hood.",
+    "description": "Weighing over 1.1 kilograms per finished garment. Built from impenetrable 500 GSM custom-milled French terry fleece with a self-lining double-layer hood that remains permanently upright without slouching.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 2799,
+    "originalPrice": 3799,
+    "images": [
+      "/images/products/uc-hoodie-black-front_a7af8199.webp",
+      "/images/products/uc-hoodie-black-back_5f20a176.webp",
+      "/images/products/uc-hoodie-black-detail_83a69f35.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-hoodie-black-front_a7af8199.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-hoodie-black-back_5f20a176.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-hoodie-black-detail_83a69f35.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Onyx Noir",
+        "hex": "#0B0B0B"
+      },
+      {
+        "name": "Washed Concrete",
+        "hex": "#63625F"
+      },
+      {
+        "name": "Bone White",
+        "hex": "#EBE5D8"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy Oversized Cut with dropped shoulders and fitted waist rib.",
+    "fabric": "100% Ultra-Heavy Ring-Spun Cotton (500 GSM) with brushed fleece interior.",
+    "care": "Machine wash cold inside out. Reshape and flat dry. Never tumble dry.",
+    "sku": "UC-HD-FT01",
+    "rating": 5,
+    "reviewsCount": 310,
+    "isNewDrop": true,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "hoodie",
+      "500gsm",
+      "heavyweight",
+      "bestseller"
+    ],
+    "details": [
+      "500 GSM double-milled luxury cotton fleece",
+      "Double-ply structured crossover hood that stands rigid without drawstrings",
+      "Reinforced side rib panels engineered for unrestricted thoracic mobility",
+      "Tonal high-density silicone UC emblem on left forearm"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01",
+      "uc-acc-01",
+      "uc-street-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-hood-02",
+    "name": "RAW EDGE HEAVYWEIGHT FULL-ZIP HOODIE",
+    "slug": "raw-edge-heavyweight-full-zip-hoodie",
+    "tagline": "Two-Way Matte YKK Zipper. Deconstructed Seams.",
+    "description": "Crafted with dual two-way heavy metal YKK zippers for dynamic styling and ventilation. Exposed raw flatlocked seams run across the shoulders and back yoke.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 2999,
+    "originalPrice": 3999,
+    "images": [
+      "/images/products/uc-ziphoodie-bone-front_2c6fd5f6.webp",
+      "/images/products/uc-ziphoodie-bone-back_eaf5f12e.webp",
+      "/images/products/uc-ziphoodie-bone-detail_94d99669.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-ziphoodie-bone-front_2c6fd5f6.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-ziphoodie-bone-back_eaf5f12e.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-ziphoodie-bone-detail_94d99669.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#0C0C0C"
+      },
+      {
+        "name": "Faded Earth",
+        "hex": "#524B40"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Boxy Drop-Shoulder Oversized.",
+    "fabric": "100% Combed Cotton Heavyweight Fleece (460 GSM).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-HD-ZP02",
+    "rating": 4.9,
+    "reviewsCount": 172,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "zip hoodie",
+      "heavyweight",
+      "hoodie"
+    ],
+    "details": [
+      "Heavy-gauge two-way matte gunmetal YKK zipper with custom cult pullers",
+      "Deep split kangaroo front pockets with internal media security pouch"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-baggy-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-hood-03",
+    "name": "ACID WASHED OVERSIZED CREWNECK SWEATSHIRT",
+    "slug": "acid-washed-oversized-crewneck-sweatshirt",
+    "tagline": "440 GSM Vintage Mineral Wash. Thick Ribbed Trim.",
+    "description": "Undergoes an extensive multi-stage acid mineral wash resulting in deep marbled textures and unique highs and lows across every single piece.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 2199,
+    "originalPrice": 2899,
+    "images": [
+      "/images/products/uc-charcoal-crewneck-front_b0217bee.webp",
+      "/images/products/uc-charcoal-crewneck-back_e59f18d1.webp",
+      "/images/products/uc-charcoal-crewneck-detail_58effe6b.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-charcoal-crewneck-front_b0217bee.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-charcoal-crewneck-back_e59f18d1.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-charcoal-crewneck-detail_58effe6b.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Washed Ash Grey",
+        "hex": "#444444"
+      },
+      {
+        "name": "Oxide Black",
+        "hex": "#222222"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Boxy Drop Shoulder.",
+    "fabric": "100% French Terry Cotton (440 GSM).",
+    "care": "Cold gentle wash inside out.",
+    "sku": "UC-HD-CR03",
+    "rating": 4.8,
+    "reviewsCount": 104,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "crewneck",
+      "acid wash",
+      "sweatshirt"
+    ],
+    "details": [
+      "Heavy 1.5\" ribbed collar that stays pristine",
+      "Soft enzyme washed interior loops"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-hood-04",
+    "name": "THERMAL LINED HEAVY BOMBER HOODIE",
+    "slug": "thermal-lined-heavy-bomber-hoodie",
+    "tagline": "Waffle Knit Thermal Lining. External Wind-Resistant Shell.",
+    "description": "Designed as true outer armor for deep sub-zero conditions. Combines a 450 GSM fleece outer with a 260 GSM waffle thermal lining inside.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 3299,
+    "originalPrice": 4499,
+    "images": [
+      "/images/products/uc-sweatshirt-acid-front_e2f514a9.webp",
+      "/images/products/uc-sweatshirt-acid-back_c3ed8bc1.webp",
+      "/images/products/uc-sweatshirt-acid-detail_4788ecba.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-sweatshirt-acid-front_e2f514a9.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-sweatshirt-acid-back_c3ed8bc1.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-sweatshirt-acid-detail_4788ecba.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Midnight Stealth",
+        "hex": "#0A0A0A"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "Structured Heavy Boxy Fit.",
+    "fabric": "Outer: 100% Cotton Fleece 450 GSM; Inner: 100% Cotton Waffle 260 GSM.",
+    "care": "Cold gentle cycle. Lay flat to dry.",
+    "sku": "UC-HD-BM04",
+    "rating": 5,
+    "reviewsCount": 88,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "thermal hoodie",
+      "heavyweight",
+      "winter"
+    ],
+    "details": [
+      "Total combined garment weight exceeding 1.4 kilograms",
+      "Wind-blocking storm flap behind zipper"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-hood-05",
+    "name": "SHORT SLEEVE DROP-SHOULDER HOODIE",
+    "slug": "short-sleeve-drop-shoulder-hoodie",
+    "tagline": "Elbow-Length Raw Sleeve. 380 GSM Cotton.",
+    "description": "The definitive gym-to-street hybrid. Provides the psychological focus of a heavy structured hood with unrestricted elbow and arm mobility.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 1699,
+    "originalPrice": 2299,
+    "images": [
+      "/images/products/uc-layered-hoodie-front_2140bbf3.webp",
+      "/images/products/uc-layered-hoodie-back_7da495a3.webp",
+      "/images/products/uc-layered-hoodie-detail_c6ca960a.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-layered-hoodie-front_2140bbf3.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-layered-hoodie-back_7da495a3.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-layered-hoodie-detail_c6ca960a.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Jet Black",
+        "hex": "#0E0E0E"
+      },
+      {
+        "name": "Raw Taupe",
+        "hex": "#635D52"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Oversized Boxy Cut.",
+    "fabric": "100% Combed French Terry (380 GSM).",
+    "care": "Machine wash cold.",
+    "sku": "UC-HD-SS05",
+    "rating": 4.8,
+    "reviewsCount": 75,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "short sleeve",
+      "hoodie",
+      "gymwear"
+    ],
+    "details": [
+      "Raw edge sleeve cut with stay-stitch reinforcement",
+      "Crossover hood with tonal embroidered eyelets"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-04"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-hood-06",
+    "name": "DECONSTRUCTED DISTRESSED OVERSIZED HOODIE",
+    "slug": "deconstructed-distressed-oversized-hoodie",
+    "tagline": "Hand-Milled Abrasions. Cracked Back Monogram.",
+    "description": "Each piece is individually hand-abraded by artisans around the hood rim, pocket seams, and wrist cuffs before receiving a stone enzyme wash.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 2699,
+    "originalPrice": 3699,
+    "images": [
+      "/images/categories/hood-cult/uc-hood-editorial-06_1e0d0bc6.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-07_49504089.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-08_787891fd.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-06_1e0d0bc6.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-07_49504089.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-08_787891fd.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Distressed Phantom",
+        "hex": "#202020"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy Oversized.",
+    "fabric": "100% Heavy Ringspun Fleece (480 GSM).",
+    "care": "Cold hand wash or delicate cycle.",
+    "sku": "UC-HD-DC06",
+    "rating": 4.9,
+    "reviewsCount": 96,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "distressed",
+      "hoodie",
+      "streetwear"
+    ],
+    "details": [
+      "Manual abrasion details throughout trims",
+      "Cracked pigment wash print on back"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-hood-07",
+    "name": "CROPPED BOXY PULLOVER HOODIE",
+    "slug": "cropped-boxy-pullover-hoodie",
+    "tagline": "Wide Chest Proportions. Above-Hip Cropped Hem.",
+    "description": "Designed specifically to emphasize layered t-shirts and high-waisted baggy trousers. Generously wide chest and shoulders paired with a high-cut cropped hem.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 2299,
+    "originalPrice": 2999,
+    "images": [
+      "/images/categories/hood-cult/uc-hood-editorial-07_49504089.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-08_787891fd.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-09_f29b64b6.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-07_49504089.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-08_787891fd.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-09_f29b64b6.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Dark Pitch",
+        "hex": "#111111"
+      },
+      {
+        "name": "Cement",
+        "hex": "#7A7771"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Wide Boxy Cropped.",
+    "fabric": "100% Cotton Fleece (460 GSM).",
+    "care": "Cold machine wash.",
+    "sku": "UC-HD-CR07",
+    "rating": 4.9,
+    "reviewsCount": 84,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "cropped",
+      "hoodie",
+      "boxy"
+    ],
+    "details": [
+      "High-cut hem designed for layered shirt show-through",
+      "Clean raw edge lower hem with lockstitch"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-hood-08",
+    "name": "MONOLITH HEAVY HALF-ZIP PULLOVER",
+    "slug": "monolith-heavy-half-zip-pullover",
+    "tagline": "High Stand Collar. Matte Gunmetal Hardware.",
+    "description": "A sophisticated streetwear alternative to the hoodie. Features a heavy stand collar that can be zipped high to guard the neck or folded down.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 2499,
+    "originalPrice": 3299,
+    "images": [
+      "/images/categories/hood-cult/uc-hood-editorial-08_787891fd.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-09_f29b64b6.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-10_0806132c.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-08_787891fd.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-09_f29b64b6.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-10_0806132c.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Carbon Black",
+        "hex": "#131313"
+      },
+      {
+        "name": "Desert Bone",
+        "hex": "#DDD6C9"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Drop-Shoulder.",
+    "fabric": "100% Combed Cotton Fleece (450 GSM).",
+    "care": "Cold wash gentle.",
+    "sku": "UC-HD-HZ08",
+    "rating": 4.8,
+    "reviewsCount": 67,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "half zip",
+      "sweatshirt",
+      "fleece"
+    ],
+    "details": [
+      "Custom gunmetal geometric UC zip pull",
+      "Elastic cord cinch at waist hem"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-hood-09",
+    "name": "BRUTALIST SPINE EMBROIDERED HOODIE",
+    "slug": "brutalist-spine-embroidered-hoodie",
+    "tagline": "Full Spine High-Density Embroidery.",
+    "description": "Features a continuous 24-inch vertical embroidery running down the spine reading \"UNKNOWN CULT // BELONG TO NO ONE\" in dense tonal thread.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 2899,
+    "originalPrice": 3899,
+    "images": [
+      "/images/categories/hood-cult/uc-hood-editorial-09_f29b64b6.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-10_0806132c.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-01_954257fe.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-09_f29b64b6.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-10_0806132c.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-01_954257fe.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#0B0B0B"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Boxy Heavyweight Fit.",
+    "fabric": "100% Organic Heavy Cotton Fleece (500 GSM).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-HD-SP09",
+    "rating": 5,
+    "reviewsCount": 112,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "embroidered",
+      "hoodie",
+      "spine hit"
+    ],
+    "details": [
+      "Over 65,000 stitches of high-tensile tonal matte embroidery",
+      "Dual-ply hood with hidden earphone wire channels"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-hood-10",
+    "name": "TACTICAL M65 POCKET HOODIE",
+    "slug": "tactical-m65-pocket-hoodie",
+    "tagline": "Waterproof Nylon Cargo Chest Pocket.",
+    "description": "Fused with military utility. Integrates a waterproof Cordura nylon 3D chest cargo pouch with snap closure and matte metal key clip.",
+    "category": "HOOD CULT",
+    "categorySlug": "hood-cult",
+    "price": 2599,
+    "originalPrice": 3499,
+    "images": [
+      "/images/categories/hood-cult/uc-hood-editorial-10_0806132c.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-01_954257fe.webp",
+      "/images/categories/hood-cult/uc-hood-editorial-02_89f0456d.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-10_0806132c.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-01_954257fe.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/hood-cult/uc-hood-editorial-02_89f0456d.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Combat Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Drab Green",
+        "hex": "#34382D"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Standard Boxy Oversized.",
+    "fabric": "Main: 100% Cotton Fleece (460 GSM); Pocket: 500D Nylon.",
+    "care": "Cold machine wash.",
+    "sku": "UC-HD-TC10",
+    "rating": 4.8,
+    "reviewsCount": 58,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "tactical",
+      "hoodie",
+      "utility"
+    ],
+    "details": [
+      "Tactical pocket with magnetic Fidlock-compatible flap",
+      "Heavy ribbed waist and cuffs"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-shirt-01",
+    "name": "HEAVY GARMENT-DYED CUBAN COLLAR SHIRT",
+    "slug": "heavy-garment-dyed-cuban-collar-shirt",
+    "tagline": "Textured Slub Rayon-Cotton. Fluid Drape.",
+    "description": "Engineered for atmospheric nights and warm subterranean venues. Tailored with a deep open camp collar, drop shoulders, and a heavy drapey fabric that ripples with motion.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 1599,
+    "originalPrice": 2299,
+    "images": [
+      "/images/products/uc-cuban-shirt-front_8ab57eef.webp",
+      "/images/products/uc-cuban-shirt-back_24562a36.webp",
+      "/images/products/uc-cuban-shirt-detail_5cad3047.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-cuban-shirt-front_8ab57eef.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-cuban-shirt-back_24562a36.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-cuban-shirt-detail_5cad3047.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Obsidian Noir",
+        "hex": "#111111"
+      },
+      {
+        "name": "Bleached Bone",
+        "hex": "#E6E0D3"
+      },
+      {
+        "name": "Smoked Sage",
+        "hex": "#484D43"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Fluid Boxy Cut with straight hem.",
+    "fabric": "60% Tencel Lyocell, 40% Heavy Slub Linen (230 GSM).",
+    "care": "Cold delicate machine wash. Hang dry on padded hanger.",
+    "sku": "UC-SH-CB01",
+    "rating": 4.9,
+    "reviewsCount": 138,
+    "isNewDrop": true,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "cuban shirt",
+      "linen",
+      "camp collar",
+      "bestseller"
+    ],
+    "details": [
+      "Authentic Cuban open camp collar with hidden loop button",
+      "Custom debossed real mother-of-pearl smoke buttons",
+      "Straight boxy hem with side vent slits for effortless untucked wear",
+      "Subtle tonal embroidered UC geometric logo at chest pocket corner"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-03",
+      "uc-daily-04",
+      "uc-acc-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-shirt-02",
+    "name": "OVERSIZED RELAXED LINEN OVERSHIRT",
+    "slug": "oversized-relaxed-linen-overshirt",
+    "tagline": "Pure Normandy Flax Linen. Dropped Yoke.",
+    "description": "Heavyweight pre-washed 100% French linen that softens with every wear. Cut oversized to be worn open over ribbed tanks or buttoned up as an architectural standalone.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 1899,
+    "originalPrice": 2699,
+    "images": [
+      "/images/products/uc-linen-shirt-front_7755beeb.webp",
+      "/images/products/uc-linen-shirt-back_f0e2718b.webp",
+      "/images/products/uc-linen-shirt-detail_6cf31312.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-linen-shirt-front_7755beeb.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-linen-shirt-back_f0e2718b.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-linen-shirt-detail_6cf31312.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black Linen",
+        "hex": "#141414"
+      },
+      {
+        "name": "Natural Sand",
+        "hex": "#DED6C7"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Oversized Boxy Silhouette.",
+    "fabric": "100% Heavy Normandy Flax Linen (260 GSM).",
+    "care": "Cold hand wash or delicate cycle. Air dry flat.",
+    "sku": "UC-SH-LN02",
+    "rating": 4.8,
+    "reviewsCount": 94,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "linen",
+      "overshirt",
+      "summer"
+    ],
+    "details": [
+      "Pre-washed with organic enzymes to eliminate crisp linen scratchiness",
+      "Oversized chest patch pockets with pen slot"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-04",
+      "uc-daily-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-shirt-03",
+    "name": "SHADOW SHADOW-PLAID HEAVY FLANNEL",
+    "slug": "shadow-plaid-heavy-flannel",
+    "tagline": "320 GSM Brushed Cotton Flannel. Double Chest Pockets.",
+    "description": "Dark monochrome shadow plaid pattern woven from thick brushed yarn. The heavyweight drape functions as light outerwear during transitional seasons.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 1799,
+    "originalPrice": 2499,
+    "images": [
+      "/images/products/uc-flannel-shirt-front_407725b0.webp",
+      "/images/products/uc-flannel-shirt-back_27f72ed8.webp",
+      "/images/products/uc-flannel-shirt-detail_1d6d4de2.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-flannel-shirt-front_407725b0.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-flannel-shirt-back_27f72ed8.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-flannel-shirt-detail_1d6d4de2.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Black & Charcoal Plaid",
+        "hex": "#1E1E1E"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Drop Shoulder.",
+    "fabric": "100% Ring-Spun Cotton Double-Brushed Flannel (320 GSM).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-SH-FL03",
+    "rating": 4.9,
+    "reviewsCount": 122,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "flannel",
+      "plaid",
+      "grunge"
+    ],
+    "details": [
+      "Double brushed face and back for superior thermal comfort",
+      "Matte horn buttons and reinforced pocket flap stitching"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-baggy-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-shirt-04",
+    "name": "GEOMETRIC BRUTALIST DRAPE SHIRT",
+    "slug": "geometric-brutalist-drape-shirt",
+    "tagline": "High-Twist Matte Crepe. Asymmetric Button Placket.",
+    "description": "An architectural statement piece. Features a concealed asymmetrical front placket with diagonal buttoning that creates sculptural diagonal folds across the torso.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 1899,
+    "originalPrice": 2699,
+    "images": [
+      "/images/products/uc-poplin-shirt-front_918d13ae.webp",
+      "/images/products/uc-poplin-shirt-back_9d0c3baa.webp",
+      "/images/products/uc-poplin-shirt-detail_80a0ef4f.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-poplin-shirt-front_918d13ae.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-poplin-shirt-back_9d0c3baa.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-poplin-shirt-detail_80a0ef4f.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Onyx Black",
+        "hex": "#0F0F0F"
+      },
+      {
+        "name": "Cement White",
+        "hex": "#EBE5D8"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Fluid Architectural Drape.",
+    "fabric": "100% Matte Rayon Crepe (220 GSM).",
+    "care": "Dry clean or cold delicate wash.",
+    "sku": "UC-SH-GM04",
+    "rating": 4.8,
+    "reviewsCount": 65,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "drape shirt",
+      "asymmetric",
+      "editorial"
+    ],
+    "details": [
+      "Concealed magnetic snap and diagonal button closure",
+      "Fluid drape engineered to move organically"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-shirt-05",
+    "name": "RAW HEM OVERSIZED POPLIN WORK SHIRT",
+    "slug": "raw-hem-oversized-poplin-work-shirt",
+    "tagline": "Crisp High-Density Poplin. Unfinished Bottom Hem.",
+    "description": "Crisp Japanese typewriter cotton poplin finished with a razor-cut raw lower hem. Exaggerated spread collar and extra-wide boxy torso.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 1699,
+    "originalPrice": 2299,
+    "images": [
+      "/images/products/uc-printed-shirt-front_98f84729.webp",
+      "/images/products/uc-printed-shirt-back_950c5f29.webp",
+      "/images/products/uc-printed-shirt-detail_4ca52501.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-printed-shirt-front_98f84729.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-printed-shirt-back_950c5f29.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-printed-shirt-detail_4ca52501.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Charcoal Noir",
+        "hex": "#1C1C1C"
+      },
+      {
+        "name": "Optic Bone",
+        "hex": "#FAF5ED"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Wide Boxy Cut.",
+    "fabric": "100% High-Density Typewriter Cotton Poplin (190 GSM).",
+    "care": "Cold gentle wash.",
+    "sku": "UC-SH-PP05",
+    "rating": 4.7,
+    "reviewsCount": 52,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "poplin",
+      "raw hem",
+      "work shirt"
+    ],
+    "details": [
+      "Crisp handfeel with permanent paper-like micro texture",
+      "Stay-stitch reinforced raw lower hemline"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-shirt-06",
+    "name": "MINIMAL SHEER VOILE EVENING RESORT SHIRT",
+    "slug": "minimal-sheer-voile-evening-resort-shirt",
+    "tagline": "Subtle Semi-Translucent Cotton Voile. Summer Nocturnal.",
+    "description": "Ultra-lightweight semi-sheer cotton voile designed for nocturnal summer heat. Offers mystery and ventilation when worn unbuttoned over a tank.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 1499,
+    "originalPrice": 2099,
+    "images": [
+      "/images/categories/shirt-society/uc-shirt-editorial-06_cc7fe7b2.webp",
+      "/images/categories/shirt-society/uc-shirt-editorial-07_e0ea5970.webp",
+      "/images/categories/shirt-society/uc-shirt-editorial-08_58fa3c9b.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-06_cc7fe7b2.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-07_e0ea5970.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-08_58fa3c9b.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Smoked Obsidian",
+        "hex": "#1B1B1B"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Fluid Relaxed Cut.",
+    "fabric": "100% Lightweight Combed Cotton Voile (110 GSM).",
+    "care": "Hand wash cold. Dry flat.",
+    "sku": "UC-SH-VL06",
+    "rating": 4.9,
+    "reviewsCount": 48,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "sheer",
+      "resort shirt",
+      "evening"
+    ],
+    "details": [
+      "Subtle semi-sheer weave with atmospheric depth",
+      "Camp collar and mother-of-pearl buttons"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-04",
+      "uc-daily-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-shirt-07",
+    "name": "BLEACHED DISTRESSED DENIM WESTERN SHIRT",
+    "slug": "bleached-distressed-denim-western-shirt",
+    "tagline": "7oz Lightweight Denim. Pearl Snap Buttons.",
+    "description": "A dark modern revision of the classic Western shirt. Features pointed front yokes, dual snap-flap chest pockets, and subtle abrasion on collar points.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 1999,
+    "originalPrice": 2799,
+    "images": [
+      "/images/categories/shirt-society/uc-shirt-editorial-07_e0ea5970.webp",
+      "/images/categories/shirt-society/uc-shirt-editorial-08_58fa3c9b.webp",
+      "/images/categories/shirt-society/uc-shirt-editorial-09_46457509.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-07_e0ea5970.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-08_58fa3c9b.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-09_46457509.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Black Denim",
+        "hex": "#242424"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Western Silhouette.",
+    "fabric": "100% Ring-Spun Cotton Denim (7 oz).",
+    "care": "Cold wash. Dry flat.",
+    "sku": "UC-SH-WS07",
+    "rating": 4.8,
+    "reviewsCount": 71,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "denim shirt",
+      "western",
+      "distressed"
+    ],
+    "details": [
+      "Genuine black obsidian stone snap fasteners",
+      "Artisanal stone-washed fading"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-shirt-08",
+    "name": "MONOCHROME STRIPED RELAXED SHIRT",
+    "slug": "monochrome-striped-relaxed-shirt",
+    "tagline": "Vertical Tonal Shadow Stripes. Camp Collar.",
+    "description": "Subtle tone-on-tone matte and satin stripes woven directly into the fabric create an optical rhythm without garish coloration.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 1699,
+    "originalPrice": 2299,
+    "images": [
+      "/images/categories/shirt-society/uc-shirt-editorial-08_58fa3c9b.webp",
+      "/images/categories/shirt-society/uc-shirt-editorial-09_46457509.webp",
+      "/images/categories/shirt-society/uc-shirt-editorial-10_6e30e87a.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-08_58fa3c9b.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-09_46457509.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-10_6e30e87a.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Black Shadow Stripe",
+        "hex": "#161616"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Boxy Fit.",
+    "fabric": "100% Tencel Lyocell Jacquard (200 GSM).",
+    "care": "Machine wash cold on delicate.",
+    "sku": "UC-SH-ST08",
+    "rating": 4.8,
+    "reviewsCount": 56,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "striped",
+      "jacquard",
+      "cuban"
+    ],
+    "details": [
+      "Jacquard woven vertical shadow stripes",
+      "Cuban collar with clean interior French seams"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-shirt-09",
+    "name": "HEAVY CANVAS UTILITY OVERSHIRT",
+    "slug": "heavy-canvas-utility-overshirt",
+    "tagline": "Military Spec Cotton Duck. Dual Zip Chest Pockets.",
+    "description": "Constructed from rigid 340 GSM cotton duck canvas designed to act as an indestructible top layer throughout fall and spring.",
+    "category": "SHIRT SOCIETY",
+    "categorySlug": "shirt-society",
+    "price": 2199,
+    "originalPrice": 2999,
+    "images": [
+      "/images/categories/shirt-society/uc-shirt-editorial-09_46457509.webp",
+      "/images/categories/shirt-society/uc-shirt-editorial-10_6e30e87a.webp",
+      "/images/categories/shirt-society/uc-shirt-editorial-01_f0fad688.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-09_46457509.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-10_6e30e87a.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/shirt-society/uc-shirt-editorial-01_f0fad688.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Combat Olive",
+        "hex": "#34382F"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Oversized Outer Silhouette.",
+    "fabric": "100% Heavy Cotton Duck (340 GSM).",
+    "care": "Cold wash. Hang dry.",
+    "sku": "UC-SH-CV09",
+    "rating": 4.9,
+    "reviewsCount": 89,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "overshirt",
+      "canvas",
+      "utility"
+    ],
+    "details": [
+      "Twin vertical zippered security chest pockets",
+      "Heavy-duty matte snap front closure"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-coord-01",
+    "name": "MONOLITH 460 GSM TRACKSUIT CO-ORD",
+    "slug": "monolith-460gsm-tracksuit-co-ord",
+    "tagline": "Matching Boxy Hoodie & Balloon Pants. Heavy Terry.",
+    "description": "The definitive monochrome uniform. Crafted from identical dye-lots of 460 GSM French terry cotton. Comprises our signature boxy dropped pullover hoodie and matching balloon sweatpants.",
+    "category": "CO-ORD CULT",
+    "categorySlug": "co-ord-cult",
+    "price": 3999,
+    "originalPrice": 5499,
+    "images": [
+      "/images/products/uc-coord-charcoal-front_48e8ac58.webp",
+      "/images/products/uc-coord-charcoal-back_53a00526.webp",
+      "/images/products/uc-coord-charcoal-detail_b239487c.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-coord-charcoal-front_48e8ac58.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-coord-charcoal-back_53a00526.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-coord-charcoal-detail_b239487c.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Onyx Noir",
+        "hex": "#0B0B0B"
+      },
+      {
+        "name": "Washed Cement",
+        "hex": "#63625E"
+      },
+      {
+        "name": "Raw Bone",
+        "hex": "#EBE5D8"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy Upper & Wide Balloon Lower.",
+    "fabric": "100% Ringspun French Terry (460 GSM).",
+    "care": "Cold wash inside out. Dry flat.",
+    "sku": "UC-CD-MN01",
+    "rating": 5,
+    "reviewsCount": 182,
+    "isNewDrop": true,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "co-ord",
+      "tracksuit",
+      "matching set",
+      "bestseller"
+    ],
+    "details": [
+      "Two-piece matching ensemble (Hoodie + Balloon Sweatpants)",
+      "Single dye-lot color consistency guarantee",
+      "Double-ply hood and thick 2.5\" ribbed pant waistband",
+      "Save ₹800 compared to purchasing pieces separately"
+    ],
+    "complementaryProductIds": [
+      "uc-acc-01",
+      "uc-acc-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-coord-02",
+    "name": "TACTICAL NYLON UTILITY SHIRT & CARGO SET",
+    "slug": "tactical-nylon-utility-shirt-and-cargo-set",
+    "tagline": "Water-Resistant Taslan. 12 Combined Pockets.",
+    "description": "An aggressive matching tactical uniform combining a short-sleeve zip utility overshirt and matching 8-pocket cargo trousers in waterproof Taslan nylon.",
+    "category": "CO-ORD CULT",
+    "categorySlug": "co-ord-cult",
+    "price": 3699,
+    "originalPrice": 4999,
+    "images": [
+      "/images/products/uc-tracksuit-bone-front_fb2e6df3.webp",
+      "/images/products/uc-tracksuit-bone-back_802bf717.webp",
+      "/images/products/uc-tracksuit-bone-detail_1da00d39.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-tracksuit-bone-front_fb2e6df3.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-tracksuit-bone-back_802bf717.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-tracksuit-bone-detail_1da00d39.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Stealth Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Combat Drab",
+        "hex": "#3B4034"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Oversized Tactical Silhouette.",
+    "fabric": "100% Technical Taslan Nylon with Teflon DWR finish.",
+    "care": "Machine wash cold on delicate.",
+    "sku": "UC-CD-TC02",
+    "rating": 4.9,
+    "reviewsCount": 119,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "tactical",
+      "co-ord",
+      "utility set"
+    ],
+    "details": [
+      "Matching two-piece tactical set",
+      "Quick-drying and weather-shielding fabric"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-acc-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-coord-03",
+    "name": "SUMMER LINEN CAMP SHIRT & RELAXED SHORT SET",
+    "slug": "summer-linen-camp-shirt-and-relaxed-short-set",
+    "tagline": "Breathable Belgian Flax Linen Blend. Resort Minimal.",
+    "description": "The ultimate vacation and summer uniform. Combines an open camp-collar linen shirt with matching 6.5\" drawstring shorts.",
+    "category": "CO-ORD CULT",
+    "categorySlug": "co-ord-cult",
+    "price": 2499,
+    "originalPrice": 3499,
+    "images": [
+      "/images/products/uc-coord-utility-front_92187930.webp",
+      "/images/products/uc-coord-utility-detail_83e9df53.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-coord-utility-front_92187930.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-coord-utility-detail_83e9df53.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Obsidian Noir",
+        "hex": "#141414"
+      },
+      {
+        "name": "Sand Taupe",
+        "hex": "#DDD6C9"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Fluid Resort Fit.",
+    "fabric": "55% Pure Flax Linen, 45% Combed Cotton (220 GSM).",
+    "care": "Cold gentle wash. Air dry.",
+    "sku": "UC-CD-LN03",
+    "rating": 4.8,
+    "reviewsCount": 93,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "linen set",
+      "co-ord",
+      "resort"
+    ],
+    "details": [
+      "Pre-shrunk and enzyme softened linen",
+      "Mother-of-pearl buttons and deep short pockets"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-04"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-coord-04",
+    "name": "WAFFLE THERMAL LOUNGE UNIFORM SET",
+    "slug": "waffle-thermal-lounge-uniform-set",
+    "tagline": "Heavy 320 GSM Micro-Waffle Knit. Raglan Crew & Jogger.",
+    "description": "A cozy architectural lounge co-ord crafted from dense micro-grid waffle cotton. Features a raglan crewneck top and matching tapered waffle joggers.",
+    "category": "CO-ORD CULT",
+    "categorySlug": "co-ord-cult",
+    "price": 2699,
+    "originalPrice": 3699,
+    "images": [
+      "/images/products/uc-hoodie-set-front_517dddb9.webp",
+      "/images/products/uc-hoodie-set-back_0dc2b0c5.webp",
+      "/images/products/uc-hoodie-set-detail_99f4aef7.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-hoodie-set-front_517dddb9.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-hoodie-set-back_0dc2b0c5.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-hoodie-set-detail_99f4aef7.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Carbon Black",
+        "hex": "#151515"
+      },
+      {
+        "name": "Concrete Grey",
+        "hex": "#77746F"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Comfort Fit.",
+    "fabric": "100% Heavy Combed Cotton Waffle Knit (320 GSM).",
+    "care": "Machine wash cold.",
+    "sku": "UC-CD-WF04",
+    "rating": 4.9,
+    "reviewsCount": 64,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "waffle",
+      "co-ord",
+      "lounge"
+    ],
+    "details": [
+      "Includes matching waffle long sleeve crew and joggers",
+      "Thick ribbed cuffs and waistband"
+    ],
+    "complementaryProductIds": [
+      "uc-acc-03"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-coord-05",
+    "name": "RAW EDGE ACID WASH HOODIE & SHORT SET",
+    "slug": "raw-edge-acid-wash-hoodie-and-short-set",
+    "tagline": "French Terry. Cut-Off Short Hem. Boxy Drop Hoodie.",
+    "description": "Engineered for summer evenings and gym sessions. Pairs a lightweight 360 GSM fleece boxy pullover hoodie with raw cut-off training shorts.",
+    "category": "CO-ORD CULT",
+    "categorySlug": "co-ord-cult",
+    "price": 2899,
+    "originalPrice": 3899,
+    "images": [
+      "/images/products/uc-coord-cropped-front_e1fd0124.webp",
+      "/images/products/uc-coord-cropped-back_0a426240.webp",
+      "/images/products/uc-coord-cropped-detail_eaeb202b.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-coord-cropped-front_e1fd0124.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-coord-cropped-back_0a426240.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-coord-cropped-detail_eaeb202b.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Black",
+        "hex": "#242424"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Boxy Hoodie & Relaxed Raw-Cut Shorts.",
+    "fabric": "100% Ringspun French Terry (360 GSM).",
+    "care": "Cold wash inside out.",
+    "sku": "UC-CD-HS05",
+    "rating": 4.8,
+    "reviewsCount": 77,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "hoodie and shorts",
+      "co-ord",
+      "acid wash"
+    ],
+    "details": [
+      "Acid mineral wash treatment with unique marbling",
+      "Safety lockstitch prevents raw hem from excessive rolling"
+    ],
+    "complementaryProductIds": [
+      "uc-acc-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-coord-06",
+    "name": "RETRO NYLON PIPED WINDBREAKER SUIT",
+    "slug": "retro-nylon-piped-windbreaker-suit",
+    "tagline": "Matte Crinkle Shell. Contrast Silver Piping.",
+    "description": "Throwback 90s underground athletics. Features a high-collar zip windbreaker and matching wide track pants accented with subtle reflective piping.",
+    "category": "CO-ORD CULT",
+    "categorySlug": "co-ord-cult",
+    "price": 3499,
+    "originalPrice": 4799,
+    "images": [
+      "/images/products/faded_olive_utility_co-ord_4e077319.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/faded_olive_utility_co-ord_4e077319.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Obsidian & Chrome",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Athletic Silhouette.",
+    "fabric": "Shell: 100% Crinkle Nylon; Lining: 100% Breathable Mesh.",
+    "care": "Cold delicate wash. Line dry.",
+    "sku": "UC-CD-WB06",
+    "rating": 4.9,
+    "reviewsCount": 88,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "windbreaker",
+      "tracksuit",
+      "retro athletic"
+    ],
+    "details": [
+      "Reflective piping glows brightly under direct flash/headlights",
+      "Mesh lining wicks moisture and prevents shell sticking to skin"
+    ],
+    "complementaryProductIds": [
+      "uc-acc-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-coord-07",
+    "name": "HEAVY DOUBLE-FACED TERRY SHORT SUIT",
+    "slug": "heavy-double-faced-terry-short-suit",
+    "tagline": "Button-Up Camp Shirt & Terry Short Uniform.",
+    "description": "Sumptuous plush double-faced loop terry cloth tailored into a short-sleeve button-up resort shirt and relaxed drawstring shorts.",
+    "category": "CO-ORD CULT",
+    "categorySlug": "co-ord-cult",
+    "price": 2799,
+    "originalPrice": 3699,
+    "images": [
+      "/images/categories/co-ord-cult/uc-coord-editorial-07_81a8906b.webp",
+      "/images/categories/co-ord-cult/uc-coord-editorial-08_fd75e586.webp",
+      "/images/categories/co-ord-cult/uc-coord-editorial-09_45f1e295.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/co-ord-cult/uc-coord-editorial-07_81a8906b.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/co-ord-cult/uc-coord-editorial-08_fd75e586.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/co-ord-cult/uc-coord-editorial-09_45f1e295.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Midnight Charcoal",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Vintage Chalk",
+        "hex": "#ECE8DF"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Comfort Fit.",
+    "fabric": "100% Combed Cotton Loop Terry (340 GSM).",
+    "care": "Cold gentle wash.",
+    "sku": "UC-CD-TR07",
+    "rating": 4.7,
+    "reviewsCount": 46,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "terry set",
+      "towel fabric",
+      "co-ord"
+    ],
+    "details": [
+      "Ultra-absorbent soft cotton terry loops",
+      "Horn buttons and antique eyelet drawstrings"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-04"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-coord-08",
+    "name": "DENIM TRUCKER & BAGGY JEAN SUIT",
+    "slug": "denim-trucker-and-baggy-jean-suit",
+    "tagline": "14.5oz Matching Selvedge Denim. Acid Washed Charcoal.",
+    "description": "The monumental double-denim statement. Pairs an oversized boxy denim trucker jacket with our matching 14.5oz wide-leg baggy jeans.",
+    "category": "CO-ORD CULT",
+    "categorySlug": "co-ord-cult",
+    "price": 4499,
+    "originalPrice": 6299,
+    "images": [
+      "/images/categories/co-ord-cult/uc-coord-editorial-08_fd75e586.webp",
+      "/images/categories/co-ord-cult/uc-coord-editorial-09_45f1e295.webp",
+      "/images/categories/co-ord-cult/uc-coord-editorial-10_577f03ba.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/co-ord-cult/uc-coord-editorial-08_fd75e586.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/co-ord-cult/uc-coord-editorial-09_45f1e295.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/co-ord-cult/uc-coord-editorial-10_577f03ba.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Black Denim",
+        "hex": "#222222"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "Oversized Boxy Trucker + Wide Skater Jeans.",
+    "fabric": "100% Heavy Ringspun Denim (14.5 oz).",
+    "care": "Cold wash seldom. Line dry.",
+    "sku": "UC-CD-DN08",
+    "rating": 5,
+    "reviewsCount": 140,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "double denim",
+      "co-ord",
+      "canadian tuxedo"
+    ],
+    "details": [
+      "Complete matching 2-piece heavyweight denim ensemble",
+      "Save ₹1000 compared to individual pieces"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-outer-01",
+    "name": "TACTICAL MA-1 OVERSIZED BOMBER JACKET",
+    "slug": "tactical-ma-1-oversized-bomber-jacket",
+    "tagline": "Heavy Flight Nylon. Reversible Safety Orange Lining.",
+    "description": "The definitive underground outer layer. Constructed with ultra-dense water-repellent flight satin nylon, heavy polyester insulation, two-way industrial zipper, and gathered shirring down the back of both sleeves.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 3499,
+    "originalPrice": 4799,
+    "images": [
+      "/images/products/uc-utility-bomber-front_8ac0f1d9.webp",
+      "/images/products/uc-utility-bomber-back_2406f496.webp",
+      "/images/products/uc-utility-bomber-detail_ce164685.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-utility-bomber-front_8ac0f1d9.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-utility-bomber-back_2406f496.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-utility-bomber-detail_ce164685.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Stealth Black",
+        "hex": "#0B0B0B"
+      },
+      {
+        "name": "Military Sage",
+        "hex": "#3C4236"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Exaggerated Boxy MA-1 Flight Cut with cropped waist and balloon sleeves.",
+    "fabric": "Shell: 100% Heavy Flight Satin Nylon; Fill: 180 GSM Thermal Polyfill.",
+    "care": "Specialist dry clean or wipe clean with damp cloth.",
+    "sku": "UC-OT-BM01",
+    "rating": 5,
+    "reviewsCount": 204,
+    "isNewDrop": true,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "bomber",
+      "outerwear",
+      "jacket",
+      "bestseller"
+    ],
+    "details": [
+      "Dense water-repellent flight nylon protects against wind and rain",
+      "Sleeve utility cigarette pocket with heavy metal zipper and cult tag",
+      "Thick 2x2 wool-blend ribbed collar, cuffs and waistband",
+      "Dual snap storm flap hand pockets with fleece hand-warmer lining"
+    ],
+    "complementaryProductIds": [
+      "uc-hood-01",
+      "uc-baggy-01",
+      "uc-acc-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-outer-02",
+    "name": "HEAVY WOOL-BLEND MONOCHROME VARSITY JACKET",
+    "slug": "heavy-wool-blend-monochrome-varsity-jacket",
+    "tagline": "Melton Wool Body. Matte Vegan Leather Sleeves.",
+    "description": "Modern brutalist luxury. Crafted with 550 GSM dense melton wool body, ultra-soft pebbled matte vegan leather sleeves, and large chenille embroidery patches.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 3899,
+    "originalPrice": 5299,
+    "images": [
+      "/images/products/uc-varsity-jacket-front_d205f36c.webp",
+      "/images/products/uc-varsity-jacket-back_274f19c6.webp",
+      "/images/products/uc-varsity-jacket-detail_5be7f998.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-varsity-jacket-front_d205f36c.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-varsity-jacket-back_274f19c6.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-varsity-jacket-detail_5be7f998.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black & Bone",
+        "hex": "#111111"
+      },
+      {
+        "name": "All Obsidian",
+        "hex": "#050505"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "Boxy Heavyweight Drop-Shoulder.",
+    "fabric": "Body: 70% Melton Wool, 30% Poly; Sleeves: 100% Microfiber Vegan Leather.",
+    "care": "Dry clean only.",
+    "sku": "UC-OT-VR02",
+    "rating": 4.9,
+    "reviewsCount": 165,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "varsity",
+      "wool jacket",
+      "outerwear"
+    ],
+    "details": [
+      "Heavy chenille and chain-stitch embroidered \"UC\" monogram on chest",
+      "Diamond-quilted satin insulated interior lining with interior wallet pocket"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01",
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-outer-03",
+    "name": "MODULAR FISHTAIL PARKA SHELL",
+    "slug": "modular-fishtail-parka-shell",
+    "tagline": "M-51 Military Spec. 3-Layer Waterproof Membrane.",
+    "description": "An elongated fishtail military parka built with a waterproof breathable 3-layer membrane. Features wire-stiffened storm hood, waist drawcord, and snap-up fishtail back hem.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 3699,
+    "originalPrice": 4999,
+    "images": [
+      "/images/products/uc-charcoal-trench-front_6877de4f.webp",
+      "/images/products/uc-charcoal-trench-back_11a6abd2.webp",
+      "/images/products/uc-charcoal-trench-detail_35b187c6.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-charcoal-trench-front_6877de4f.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-charcoal-trench-back_11a6abd2.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-charcoal-trench-detail_35b187c6.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Dark Charcoal",
+        "hex": "#1C1C1C"
+      },
+      {
+        "name": "Army Olive",
+        "hex": "#373C30"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Oversized Flowing Fishtail Silhouette.",
+    "fabric": "3-Layer Bonded Cotton-Nylon with 10k Waterproof Rating.",
+    "care": "Cold delicate wash. Hang dry.",
+    "sku": "UC-OT-PK03",
+    "rating": 4.8,
+    "reviewsCount": 78,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "parka",
+      "fishtail",
+      "waterproof"
+    ],
+    "details": [
+      "Fully taped waterproof internal seams",
+      "Drawstring cinches at hood, waist, and lower hem"
+    ],
+    "complementaryProductIds": [
+      "uc-hood-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-outer-04",
+    "name": "BOXY VINTAGE WASH DENIM TRUCKER JACKET",
+    "slug": "boxy-vintage-wash-denim-trucker-jacket",
+    "tagline": "14.5oz Heavyweight Cotton. Knife Pleat Detailing.",
+    "description": "Type II inspired work jacket featuring front knife pleats, dropped shoulders, and a boxy cropped silhouette that layers seamlessly over thick hoodies.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 2799,
+    "originalPrice": 3799,
+    "images": [
+      "/images/products/uc-windbreaker-front_2f2141d0.webp",
+      "/images/products/uc-windbreaker-back_796b7250.webp",
+      "/images/products/uc-windbreaker-detail_c77a3b0c.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-windbreaker-front_2f2141d0.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-windbreaker-back_796b7250.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-windbreaker-detail_c77a3b0c.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Washed Ash Denim",
+        "hex": "#262626"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Cropped Boxy Trucker Cut.",
+    "fabric": "100% Cotton Denim (14.5 oz).",
+    "care": "Wash cold inside out. Hang to dry.",
+    "sku": "UC-OT-TR04",
+    "rating": 4.9,
+    "reviewsCount": 112,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "denim jacket",
+      "trucker",
+      "outerwear"
+    ],
+    "details": [
+      "Custom gunmetal donut buttons with embossed cult monogram",
+      "Dual buttoned flap chest pockets and hidden interior stash slots"
+    ],
+    "complementaryProductIds": [
+      "uc-hood-01",
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-outer-05",
+    "name": "TACTICAL FLEECE LINED ANORAK",
+    "slug": "tactical-fleece-lined-anorak",
+    "tagline": "Quarter-Zip Overhead Shell. Kangaroo Pocket.",
+    "description": "Pullover anorak with a weather-resistant ripstop shell and plush microfleece lining. Features a massive center kangaroo cargo pouch with dual side pass-through hand pockets.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 2699,
+    "originalPrice": 3599,
+    "images": [
+      "/images/products/uc-denim-jacket-front_33dfe50a.webp",
+      "/images/products/uc-denim-jacket-back_d5538267.webp",
+      "/images/products/uc-denim-jacket-detail_2e73cc2f.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-denim-jacket-front_33dfe50a.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-denim-jacket-back_d5538267.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-denim-jacket-detail_2e73cc2f.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#0F0F0F"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Oversized Pullover Anorak.",
+    "fabric": "Shell: 100% Ripstop Nylon; Lining: 100% Polar Microfleece.",
+    "care": "Cold gentle wash.",
+    "sku": "UC-OT-AN05",
+    "rating": 4.8,
+    "reviewsCount": 63,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "anorak",
+      "fleece",
+      "windbreaker"
+    ],
+    "details": [
+      "Side seam zipper facilitates easy on-and-off overhead dressing",
+      "High collar with scuba hood"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-outer-06",
+    "name": "HEAVYWEIGHT OVERSIZED TRENCH COAT",
+    "slug": "heavyweight-oversized-trench-coat",
+    "tagline": "Waterproof Gabardine Twill. Storm Flap & Belt.",
+    "description": "A dark cinematic statement. Reinterprets the traditional trench with exaggerated lapels, dropped shoulders, and an ankle-grazing fluid drape.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 3999,
+    "originalPrice": 5699,
+    "images": [
+      "/images/categories/outer-cult/uc-outer-editorial-06_a036949d.webp",
+      "/images/categories/outer-cult/uc-outer-editorial-07_b58eed2f.webp",
+      "/images/categories/outer-cult/uc-outer-editorial-08_03c65bff.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-06_a036949d.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-07_b58eed2f.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-08_03c65bff.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Soot Black",
+        "hex": "#141414"
+      },
+      {
+        "name": "Cold Taupe",
+        "hex": "#777169"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "Exaggerated Ankle-Length Dramatic Cut.",
+    "fabric": "65% Heavy Cotton Gabardine, 35% Poly with water-repellent coating (380 GSM).",
+    "care": "Dry clean only.",
+    "sku": "UC-OT-TC06",
+    "rating": 4.9,
+    "reviewsCount": 84,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "trench coat",
+      "editorial",
+      "outerwear"
+    ],
+    "details": [
+      "Removable waist belt with matte gunmetal D-ring hardware",
+      "Deep interior document pockets"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-03",
+      "uc-daily-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-outer-07",
+    "name": "MATTE PUFFER OVERSIZED GILET VEST",
+    "slug": "matte-puffer-oversized-gilet-vest",
+    "tagline": "Chambered Down Alternative. Stand Funnel Neck.",
+    "description": "Puff chamber gilet featuring a soft-touch matte exterior shell and high-density warm thermal insulation. Perfect for layering over heavy hoodies.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 2499,
+    "originalPrice": 3399,
+    "images": [
+      "/images/categories/outer-cult/uc-outer-editorial-07_b58eed2f.webp",
+      "/images/categories/outer-cult/uc-outer-editorial-08_03c65bff.webp",
+      "/images/categories/outer-cult/uc-outer-editorial-09_0522a3c0.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-07_b58eed2f.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-08_03c65bff.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-09_0522a3c0.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Matte Obsidian",
+        "hex": "#101010"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Boxy Sleeveless Puffer Vest.",
+    "fabric": "Shell: 100% Matte Microfiber; Insulation: Thermal Synthetic Down.",
+    "care": "Cold gentle wash. Tumble dry low with tennis balls.",
+    "sku": "UC-OT-VT07",
+    "rating": 4.8,
+    "reviewsCount": 92,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "puffer vest",
+      "gilet",
+      "layering"
+    ],
+    "details": [
+      "Tall insulated stand funnel collar prevents drafts",
+      "Dual zipper closure with storm flap snaps"
+    ],
+    "complementaryProductIds": [
+      "uc-hood-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-outer-08",
+    "name": "MINIMAL COACHES JACKET WITH BACK LOGO",
+    "slug": "minimal-coaches-jacket-with-back-logo",
+    "tagline": "Matte Nylon Shell. Tonal Silicone Monogram.",
+    "description": "Clean street sophistication. Pointed shirt collar, matte snap buttons, drawstring waist hem, and a subtle reflective UC monogram screenprint on the upper back.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 2199,
+    "originalPrice": 2899,
+    "images": [
+      "/images/categories/outer-cult/uc-outer-editorial-08_03c65bff.webp",
+      "/images/categories/outer-cult/uc-outer-editorial-09_0522a3c0.webp",
+      "/images/categories/outer-cult/uc-outer-editorial-10_b3dfa423.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-08_03c65bff.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-09_0522a3c0.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-10_b3dfa423.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Dark Pitch",
+        "hex": "#121212"
+      },
+      {
+        "name": "Slate Taupe",
+        "hex": "#5E5A53"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Relaxed Boxy Coaches Cut.",
+    "fabric": "Shell: 100% Matte Oxford Nylon; Lining: Soft Brushed Tricot.",
+    "care": "Cold machine wash.",
+    "sku": "UC-OT-CJ08",
+    "rating": 4.7,
+    "reviewsCount": 54,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "coaches jacket",
+      "windbreaker",
+      "outerwear"
+    ],
+    "details": [
+      "Soft brushed tricot interior lining keeps torso warm",
+      "Adjustable hem drawcord"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-outer-09",
+    "name": "DISTRESSED MOTO LEATHER-LOOK OVERSHIRT",
+    "slug": "distressed-moto-leather-look-overshirt",
+    "tagline": "Washed PU Biker Leather. Gunmetal Asymmetric Zip.",
+    "description": "Fusing motorcycle underground subculture with boxy oversized draping. Features an asymmetrical off-center zipper and snap lapels in buttery vegan leather.",
+    "category": "OUTER CULT",
+    "categorySlug": "outer-cult",
+    "price": 3699,
+    "originalPrice": 4999,
+    "images": [
+      "/images/categories/outer-cult/uc-outer-editorial-09_0522a3c0.webp",
+      "/images/categories/outer-cult/uc-outer-editorial-10_b3dfa423.webp",
+      "/images/categories/outer-cult/uc-outer-editorial-01_acf497b8.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-09_0522a3c0.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-10_b3dfa423.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/outer-cult/uc-outer-editorial-01_acf497b8.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Vintage Washed Black",
+        "hex": "#1B1B1B"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "Boxy Dropped Shoulder Biker Cut.",
+    "fabric": "100% Polyurethane Vegan Leather with vintage stone-wash distress.",
+    "care": "Wipe clean only.",
+    "sku": "UC-OT-MT09",
+    "rating": 4.9,
+    "reviewsCount": 79,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "leather jacket",
+      "biker",
+      "outerwear"
+    ],
+    "details": [
+      "Hand-distressed seam accents give immediate aged patina",
+      "Dual diagonal zipper chest pockets"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01",
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-acc-01",
+    "name": "SIGNATURE EMBROIDERED CULT DAD CAP",
+    "slug": "signature-embroidered-cult-dad-cap",
+    "tagline": "Unstructured 6-Panel. Antique Metal Buckle.",
+    "description": "The definitive daily headwear. Made from 100% heavy washed cotton chino twill with a curved visor, unstructured relaxed crown, and dense 3D embroidered UC monogram on front.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 699,
+    "originalPrice": 999,
+    "images": [
+      "/images/products/uc-cap-black-front_3a2cc6d1.webp",
+      "/images/products/uc-cap-black-back_8e87198f.webp",
+      "/images/products/uc-cap-black-detail_e2d93345.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-cap-black-front_3a2cc6d1.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-cap-black-back_8e87198f.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-cap-black-detail_e2d93345.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Washed Ash",
+        "hex": "#3E3E3E"
+      },
+      {
+        "name": "Vintage Bone",
+        "hex": "#DDD6C9"
+      }
+    ],
+    "sizes": [
+      "FREE SIZE"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Adjustable metal strap back. Fits heads 54-62cm.",
+    "fabric": "100% Heavy Washed Cotton Chino Twill (320 GSM).",
+    "care": "Spot clean with damp cloth.",
+    "sku": "UC-AC-CP01",
+    "rating": 4.9,
+    "reviewsCount": 290,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": true,
+    "tags": [
+      "cap",
+      "hat",
+      "accessory",
+      "bestseller"
+    ],
+    "details": [
+      "High-density 3D tonal embroidery on front",
+      "Subtle \"BELONG TO NO ONE\" arched embroidery over rear strap opening",
+      "Antique brass buckle adjuster with tuck-in slot"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-01",
+      "uc-street-01",
+      "uc-hood-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-acc-02",
+    "name": "TACTICAL CORDURA MODULAR CROSSBODY BAG",
+    "slug": "tactical-cordura-modular-crossbody-bag",
+    "tagline": "1000D Ballistic Cordura. Waterproof YKK Zippers.",
+    "description": "Built for hands-free urban anonymity. Sized to hold your phone, passport, AirPods, keys, and compact camera with zero clutter.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 1299,
+    "originalPrice": 1799,
+    "images": [
+      "/images/products/uc-tote-bag-front_cde8bcc3.webp",
+      "/images/products/uc-tote-bag-back_0f268503.webp",
+      "/images/products/uc-tote-bag-detail_7a4d47f5.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-tote-bag-front_cde8bcc3.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-tote-bag-back_0f268503.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-tote-bag-detail_7a4d47f5.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Stealth Black",
+        "hex": "#0D0D0D"
+      },
+      {
+        "name": "Tactical Drab",
+        "hex": "#36392F"
+      }
+    ],
+    "sizes": [
+      "ONE SIZE (3.5L)"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Adjustable quick-release seatbelt webbing strap.",
+    "fabric": "1000D Genuine Cordura Ballistic Nylon with PU water-resistant coating.",
+    "care": "Wipe clean.",
+    "sku": "UC-AC-BG02",
+    "rating": 5,
+    "reviewsCount": 175,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "bag",
+      "crossbody",
+      "tactical"
+    ],
+    "details": [
+      "Acetal quick-release tactical buckle",
+      "Internal zippered mesh organizer and key leash carabiner clip",
+      "External MOLLE webbing loops for clip-on attachments"
+    ],
+    "complementaryProductIds": [
+      "uc-street-01",
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-acc-03",
+    "name": "HEAVY GAUGE CHUNKY RIBBED SOCKS (3-PACK)",
+    "slug": "heavy-gauge-chunky-ribbed-socks-3-pack",
+    "tagline": "Cushioned Terry Sole. Arch Compression Support.",
+    "description": "Thick, retro-style crew socks with reinforced heel and toe cushioning designed to stay high and comfortable over hours of walking or heavy lifting.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 499,
+    "originalPrice": 799,
+    "images": [
+      "/images/products/uc-socks-pack-front_fe8b71ae.webp",
+      "/images/products/uc-socks-pack-back_eb9402cc.webp",
+      "/images/products/uc-socks-pack-detail_91ef1550.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-socks-pack-front_fe8b71ae.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-socks-pack-back_eb9402cc.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-socks-pack-detail_91ef1550.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Monochrome Pack (Black, Ash, Bone)",
+        "hex": "#222222"
+      }
+    ],
+    "sizes": [
+      "ONE SIZE (UK 7-11)"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Mid-Calf High Crew Length.",
+    "fabric": "80% Combed Cotton, 17% Polyamide, 3% Elastane.",
+    "care": "Machine wash warm inside out.",
+    "sku": "UC-AC-SK03",
+    "rating": 4.9,
+    "reviewsCount": 220,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "socks",
+      "3pack",
+      "heavyweight"
+    ],
+    "details": [
+      "Full plush French terry footbed cushion absorbs impact",
+      "Targeted arch compression band keeps sock firmly in place",
+      "Jacquard knit cult monogram at calf ribbing"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-04",
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-acc-04",
+    "name": "BRUTALIST MATTE BLACK CARABINER KEYCHAIN",
+    "slug": "brutalist-matte-black-carabiner-keychain",
+    "tagline": "CNC Milled Aircraft Aluminum. Heavy Webbing Strap.",
+    "description": "Machined from aircraft-grade 6061-T6 aluminum with an electroplated matte black finish. Connected to a heavy military nylon webbing lanyard stamped with the cult wordmark.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 399,
+    "originalPrice": 599,
+    "images": [
+      "/images/products/uc-beanie-bone-front_8f8f5f09.webp",
+      "/images/products/uc-beanie-bone-back_410cc5ba.webp",
+      "/images/products/uc-beanie-bone-detail_0fde933d.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-beanie-bone-front_8f8f5f09.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-beanie-bone-back_410cc5ba.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-beanie-bone-detail_0fde933d.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Anodized Matte Black",
+        "hex": "#161616"
+      }
+    ],
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Universal Clip.",
+    "fabric": "6061 Aircraft Aluminum & Military Spec Nylon Webbing.",
+    "care": "No maintenance needed.",
+    "sku": "UC-AC-KC04",
+    "rating": 4.8,
+    "reviewsCount": 145,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "keychain",
+      "carabiner",
+      "accessories"
+    ],
+    "details": [
+      "Spring-loaded quick gate for rapid belt loop attachment",
+      "Laser engraved coordinates of the cult studio"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-acc-05",
+    "name": "SOLID 925 STERLING SILVER CULT SIGNET RING",
+    "slug": "solid-925-sterling-silver-cult-signet-ring",
+    "tagline": "Hand-Finished 925 Silver. Oxidized Antique Patina.",
+    "description": "Cast in solid 925 sterling silver with a hefty 18-gram weight. The flat rectangular face is engraved with the sharp geometric UC emblem and oxidized for shadow contrast.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 2499,
+    "originalPrice": 3499,
+    "images": [
+      "/images/products/uc-belt-black-front_2d476983.webp",
+      "/images/products/uc-belt-black-back_647a2712.webp",
+      "/images/products/uc-belt-black-detail_11f36a0c.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/products/uc-belt-black-front_2d476983.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/products/uc-belt-black-back_647a2712.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/products/uc-belt-black-detail_11f36a0c.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Oxidized 925 Silver",
+        "hex": "#B8B8B8"
+      }
+    ],
+    "sizes": [
+      "US 8",
+      "US 9",
+      "US 10",
+      "US 11"
+    ],
+    "stockStatus": "low_stock",
+    "fit": "Solid Heavyweight Band.",
+    "fabric": "Solid 925 Sterling Silver with oxidized antique finish.",
+    "care": "Polish with included microfiber cloth. Store in cult pouch.",
+    "sku": "UC-AC-RG05",
+    "rating": 5,
+    "reviewsCount": 88,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "ring",
+      "silver",
+      "jewelry"
+    ],
+    "details": [
+      "Hallmarked with official 925 stamp and UC brand crest",
+      "Ships in protective matte black presentation box"
+    ],
+    "complementaryProductIds": [
+      "uc-shirt-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_multi_angle_photography"
+  },
+  {
+    "id": "uc-acc-06",
+    "name": "HEAVYWEIGHT SHORT BEANIE (FISHERMAN CUT)",
+    "slug": "heavyweight-short-beanie-fisherman-cut",
+    "tagline": "100% Merino Wool. Shallow Crown Roll.",
+    "description": "A cropped fisherman beanie engineered to sit above the ears without excess crown bun. Knitted from extra-fine 100% merino wool that regulates temperature naturally.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 599,
+    "originalPrice": 899,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-06_1fb1abe8.webp",
+      "/images/categories/street-cult/uc-street-editorial-07_80427c88.webp",
+      "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-06_1fb1abe8.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-07_80427c88.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Charcoal Grey",
+        "hex": "#444444"
+      }
+    ],
+    "sizes": [
+      "FREE SIZE"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Shallow above-ear fisherman fit.",
+    "fabric": "100% Extra-Fine Merino Wool.",
+    "care": "Hand wash cold. Dry flat.",
+    "sku": "UC-AC-BN06",
+    "rating": 4.8,
+    "reviewsCount": 132,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "beanie",
+      "wool",
+      "headwear"
+    ],
+    "details": [
+      "Double-thick folded cuff for ear warmth",
+      "Minimal woven label at fold"
+    ],
+    "complementaryProductIds": [
+      "uc-outer-01",
+      "uc-hood-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-acc-07",
+    "name": "INDUSTRIAL ROLLER WEBBING BELT",
+    "slug": "industrial-roller-webbing-belt",
+    "tagline": "Continuous Adjustable Clasp. Heavy 38mm Webbing.",
+    "description": "Continuous buckle system with no holes for precision micro-adjustment. Heavyweight 38mm nylon seatbelt webbing stamped with repeating monochromatic brand coordinates.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 499,
+    "originalPrice": 799,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-07_80427c88.webp",
+      "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp",
+      "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-07_80427c88.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Matte Black",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [
+      "FREE SIZE (135cm)"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Cut-to-fit customizable length with metal end clip.",
+    "fabric": "100% High-Density Polyester Webbing with zinc alloy buckle.",
+    "care": "Wipe clean.",
+    "sku": "UC-AC-BL07",
+    "rating": 4.7,
+    "reviewsCount": 96,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "belt",
+      "webbing",
+      "accessories"
+    ],
+    "details": [
+      "Heavy roller clamp buckle holds waist with zero slippage",
+      "Extra-long length designed to hang freely past belt loop"
+    ],
+    "complementaryProductIds": [
+      "uc-baggy-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-acc-08",
+    "name": "HEAVY CANVAS DAILY TOTE BAG 28L",
+    "slug": "heavy-canvas-daily-tote-bag-28l",
+    "tagline": "16oz Cotton Canvas. Internal Padded Laptop Sleeve.",
+    "description": "An architectural workhorse tote. Holds your 16\" laptop in a suspended padded compartment, gym gear, and daily essentials with double-reinforced boxed handles.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 999,
+    "originalPrice": 1499,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp",
+      "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp",
+      "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-08_e8a4857b.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Washed Black Canvas",
+        "hex": "#1E1E1E"
+      },
+      {
+        "name": "Raw Natural Canvas",
+        "hex": "#EAE5DB"
+      }
+    ],
+    "sizes": [
+      "28 LITERS"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Spacious Over-Shoulder Carry.",
+    "fabric": "100% Organic Heavy Duck Canvas (16 oz / 460 GSM).",
+    "care": "Spot clean only.",
+    "sku": "UC-AC-TT08",
+    "rating": 4.9,
+    "reviewsCount": 158,
+    "isNewDrop": false,
+    "isBestseller": true,
+    "isTrending": false,
+    "tags": [
+      "tote bag",
+      "canvas",
+      "carryall"
+    ],
+    "details": [
+      "Dedicated padded 16\" laptop sleeve with velcro strap",
+      "Snap-button top main closure and interior water bottle sleeve"
+    ],
+    "complementaryProductIds": [
+      "uc-daily-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-acc-09",
+    "name": "MONOGRAM EMBOSSED LEATHER CARDHOLDER",
+    "slug": "monogram-embossed-leather-cardholder",
+    "tagline": "Full-Grain Vegetable Tanned Leather. RFID Protected.",
+    "description": "Crafted from premium full-grain Italian vegetable-tanned leather that darkens and develops a unique rich patina through daily use. Holds 6 cards and folded cash.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 899,
+    "originalPrice": 1299,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp",
+      "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp",
+      "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-09_47ed2e28.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Midnight Obsidian",
+        "hex": "#121212"
+      }
+    ],
+    "sizes": [
+      "ONE SIZE"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Slim Pocket Profile (10cm x 7.5cm).",
+    "fabric": "100% Italian Full-Grain Cowhide Leather.",
+    "care": "Condition with leather balm twice yearly.",
+    "sku": "UC-AC-CH09",
+    "rating": 4.9,
+    "reviewsCount": 110,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "cardholder",
+      "leather",
+      "wallet"
+    ],
+    "details": [
+      "Built-in metallic RFID blocking barrier protects against electronic skimming",
+      "Debossed subtle geometric UC crest on front and back"
+    ],
+    "complementaryProductIds": [
+      "uc-acc-02"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-acc-10",
+    "name": "MATTE BLACK THERMAL HYDRATION FLASK 1L",
+    "slug": "matte-black-thermal-hydration-flask-1l",
+    "tagline": "Double-Wall Vacuum Insulated. Keeps Cold for 36 Hours.",
+    "description": "Heavy gauge 18/8 kitchen-grade stainless steel with a tactile textured powder-coat finish that will not slip even with sweaty gym hands.",
+    "category": "CULT ACCESSORIES",
+    "categorySlug": "cult-accessories",
+    "price": 899,
+    "originalPrice": 1299,
+    "images": [
+      "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp",
+      "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp",
+      "/images/categories/street-cult/uc-street-editorial-02_86ee0c16.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "front",
+        "path": "/images/categories/street-cult/uc-street-editorial-10_3f669fe7.webp"
+      },
+      {
+        "angle": "back",
+        "path": "/images/categories/street-cult/uc-street-editorial-01_b79a41e7.webp"
+      },
+      {
+        "angle": "detail",
+        "path": "/images/categories/street-cult/uc-street-editorial-02_86ee0c16.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Ultra-Matte Black",
+        "hex": "#161616"
+      }
+    ],
+    "sizes": [
+      "1000 ML (34 OZ)"
+    ],
+    "stockStatus": "in_stock",
+    "fit": "Wide Mouth.",
+    "fabric": "18/8 Pro-Grade Stainless Steel, BPA-Free.",
+    "care": "Hand wash recommended.",
+    "sku": "UC-AC-BT10",
+    "rating": 4.8,
+    "reviewsCount": 142,
+    "isNewDrop": false,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "bottle",
+      "flask",
+      "gym"
+    ],
+    "details": [
+      "Zero condensation sweat-free exterior",
+      "Heavy-duty alloy loop lid for carabiner clip carry"
+    ],
+    "complementaryProductIds": [
+      "uc-gym-01"
+    ],
+    "status": "approved",
+    "requiresApproval": false,
+    "missingFields": [],
+    "relationshipCertainty": "high",
+    "source": "flow_editorial_photography"
+  },
+  {
+    "id": "uc-bu-cargo-utility-tactical-twill",
+    "name": "CARGO UTILITY TACTICAL TWILL",
+    "slug": "cargo-utility-tactical-twill",
+    "tagline": "[DRAFT PENDING APPROVAL] Engineered silhouette from the Baggy & Utility archive.",
+    "description": "[DRAFT SPECIFICATION] High-density contemporary silhouette styled for UNKNOWN CULT. Exact composition, fabric mass, and wash details pending atelier sign-off.",
+    "category": "Baggy & Utility",
+    "categorySlug": "baggy-utility",
+    "price": 0,
+    "isDraftPrice": true,
+    "originalPrice": null,
+    "images": [
+      "/assets/disciplines/baggy-utility/cargo_utility_tactical_twill.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "unknown",
+        "path": "/assets/disciplines/baggy-utility/cargo_utility_tactical_twill.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Monochrome (Draft)",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [],
+    "stockStatus": "draft_unverified",
+    "fit": "Oversized Boxy Silhouette (Draft)",
+    "fabric": "Pending fabric laboratory specification",
+    "care": "Cold machine wash, flat dry",
+    "sku": "UC-BU-CARGO-",
+    "rating": 5,
+    "reviewsCount": 0,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "baggy-utility",
+      "draft",
+      "pending-review"
+    ],
+    "details": [
+      "Awaiting final measurement sign-off",
+      "Drop shoulder construction",
+      "Reinforced seam geometry"
+    ],
+    "complementaryProductIds": [],
+    "status": "pending_approval",
+    "requiresApproval": true,
+    "relationshipCertainty": "high",
+    "missingFields": [
+      "price",
+      "available_sizes",
+      "available_colors",
+      "exact_gsm_fabric_specs"
+    ],
+    "source": "flow_export_import",
+    "createdAt": "2026-11-20T18:28:28.359Z"
+  },
+  {
+    "id": "uc-st-unlabeled-snapshot-3421",
+    "name": "UNLABELED SNAPSHOT 3421",
+    "slug": "unlabeled-snapshot-3421",
+    "tagline": "[DRAFT PENDING APPROVAL] Engineered silhouette from the Street Cult archive.",
+    "description": "[DRAFT SPECIFICATION] High-density contemporary silhouette styled for UNKNOWN CULT. Exact composition, fabric mass, and wash details pending atelier sign-off.",
+    "category": "Street Cult",
+    "categorySlug": "street-cult",
+    "price": 0,
+    "isDraftPrice": true,
+    "originalPrice": null,
+    "images": [
+      "/assets/unclassified/unlabeled_snapshot_3421.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "unknown",
+        "path": "/assets/unclassified/unlabeled_snapshot_3421.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Monochrome (Draft)",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [],
+    "stockStatus": "draft_unverified",
+    "fit": "Oversized Boxy Silhouette (Draft)",
+    "fabric": "Pending fabric laboratory specification",
+    "care": "Cold machine wash, flat dry",
+    "sku": "UC-ST-UNLABE",
+    "rating": 5,
+    "reviewsCount": 0,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "street-cult",
+      "draft",
+      "pending-review"
+    ],
+    "details": [
+      "Awaiting final measurement sign-off",
+      "Drop shoulder construction",
+      "Reinforced seam geometry"
+    ],
+    "complementaryProductIds": [],
+    "status": "pending_approval",
+    "requiresApproval": true,
+    "relationshipCertainty": "high",
+    "missingFields": [
+      "price",
+      "available_sizes",
+      "available_colors",
+      "exact_gsm_fabric_specs"
+    ],
+    "source": "flow_export_import",
+    "createdAt": "2026-11-20T18:28:28.360Z"
+  },
+  {
+    "id": "uc-st-ambiguous-unlabeled-art-99",
+    "name": "AMBIGUOUS UNLABELED ART 99",
+    "slug": "ambiguous-unlabeled-art-99",
+    "tagline": "[DRAFT PENDING APPROVAL] Engineered silhouette from the Street Cult archive.",
+    "description": "[DRAFT SPECIFICATION] High-density contemporary silhouette styled for UNKNOWN CULT. Exact composition, fabric mass, and wash details pending atelier sign-off.",
+    "category": "Street Cult",
+    "categorySlug": "street-cult",
+    "price": 0,
+    "isDraftPrice": true,
+    "originalPrice": null,
+    "images": [
+      "/assets/unclassified/ambiguous_unlabeled_art_99.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "unknown",
+        "path": "/assets/unclassified/ambiguous_unlabeled_art_99.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Monochrome (Draft)",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [],
+    "stockStatus": "draft_unverified",
+    "fit": "Oversized Boxy Silhouette (Draft)",
+    "fabric": "Pending fabric laboratory specification",
+    "care": "Cold machine wash, flat dry",
+    "sku": "UC-ST-AMBIGU",
+    "rating": 5,
+    "reviewsCount": 0,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "street-cult",
+      "draft",
+      "pending-review"
+    ],
+    "details": [
+      "Awaiting final measurement sign-off",
+      "Drop shoulder construction",
+      "Reinforced seam geometry"
+    ],
+    "complementaryProductIds": [],
+    "status": "pending_approval",
+    "requiresApproval": true,
+    "relationshipCertainty": "high",
+    "missingFields": [
+      "price",
+      "available_sizes",
+      "available_colors",
+      "exact_gsm_fabric_specs"
+    ],
+    "source": "flow_export_import",
+    "createdAt": "2026-11-20T18:28:28.360Z"
+  },
+  {
+    "id": "uc-st-hero-campaign-tokyo",
+    "name": "HERO CAMPAIGN TOKYO",
+    "slug": "hero-campaign-tokyo",
+    "tagline": "[DRAFT PENDING APPROVAL] Engineered silhouette from the Street Cult archive.",
+    "description": "[DRAFT SPECIFICATION] High-density contemporary silhouette styled for UNKNOWN CULT. Exact composition, fabric mass, and wash details pending atelier sign-off.",
+    "category": "Street Cult",
+    "categorySlug": "street-cult",
+    "price": 0,
+    "isDraftPrice": true,
+    "originalPrice": null,
+    "images": [
+      "/assets/unclassified/hero_campaign_tokyo.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "unknown",
+        "path": "/assets/unclassified/hero_campaign_tokyo.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Monochrome (Draft)",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [],
+    "stockStatus": "draft_unverified",
+    "fit": "Oversized Boxy Silhouette (Draft)",
+    "fabric": "Pending fabric laboratory specification",
+    "care": "Cold machine wash, flat dry",
+    "sku": "UC-ST-HERO-C",
+    "rating": 5,
+    "reviewsCount": 0,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "street-cult",
+      "draft",
+      "pending-review"
+    ],
+    "details": [
+      "Awaiting final measurement sign-off",
+      "Drop shoulder construction",
+      "Reinforced seam geometry"
+    ],
+    "complementaryProductIds": [],
+    "status": "pending_approval",
+    "requiresApproval": true,
+    "relationshipCertainty": "high",
+    "missingFields": [
+      "price",
+      "available_sizes",
+      "available_colors",
+      "exact_gsm_fabric_specs"
+    ],
+    "source": "flow_export_import",
+    "createdAt": "2026-11-20T18:28:28.361Z"
+  },
+  {
+    "id": "uc-gm-gym-pump-cover-heavyweight",
+    "name": "GYM PUMP COVER HEAVYWEIGHT",
+    "slug": "gym-pump-cover-heavyweight",
+    "tagline": "[DRAFT PENDING APPROVAL] Engineered silhouette from the Gym Cult archive.",
+    "description": "[DRAFT SPECIFICATION] High-density contemporary silhouette styled for UNKNOWN CULT. Exact composition, fabric mass, and wash details pending atelier sign-off.",
+    "category": "Gym Cult",
+    "categorySlug": "gym-cult",
+    "price": 0,
+    "isDraftPrice": true,
+    "originalPrice": null,
+    "images": [
+      "/assets/disciplines/gym-cult/gym_pump_cover_heavyweight.webp"
+    ],
+    "imageAngles": [
+      {
+        "angle": "unknown",
+        "path": "/assets/disciplines/gym-cult/gym_pump_cover_heavyweight.webp"
+      }
+    ],
+    "colors": [
+      {
+        "name": "Monochrome (Draft)",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [],
+    "stockStatus": "draft_unverified",
+    "fit": "Oversized Boxy Silhouette (Draft)",
+    "fabric": "Pending fabric laboratory specification",
+    "care": "Cold machine wash, flat dry",
+    "sku": "UC-GM-GYM-PU",
+    "rating": 5,
+    "reviewsCount": 0,
+    "isNewDrop": true,
+    "isBestseller": false,
+    "isTrending": false,
+    "tags": [
+      "gym-cult",
+      "draft",
+      "pending-review"
+    ],
+    "details": [
+      "Awaiting final measurement sign-off",
+      "Drop shoulder construction",
+      "Reinforced seam geometry"
+    ],
+    "complementaryProductIds": [],
+    "status": "pending_approval",
+    "requiresApproval": true,
+    "relationshipCertainty": "high",
+    "missingFields": [
+      "price",
+      "available_sizes",
+      "available_colors",
+      "exact_gsm_fabric_specs"
+    ],
+    "source": "flow_export_import",
+    "createdAt": "2026-11-20T18:28:28.361Z"
+  }
+]

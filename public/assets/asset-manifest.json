@@ -1,0 +1,157 @@
+[
+  {
+    "id": "uc-baggy-utility-d76300876e",
+    "filename": "cargo_utility_tactical_twill.webp",
+    "originalFilename": "cargo_utility_tactical_twill.png",
+    "category": "baggy-utility",
+    "categoryFolder": "disciplines/baggy-utility",
+    "categoryName": "Baggy & Utility / Tactical Twill",
+    "confidence": 1,
+    "classificationReason": "Matched keywords: [cargo, utility, tactical, twill]",
+    "matchedKeywords": [
+      "cargo",
+      "utility",
+      "tactical",
+      "twill"
+    ],
+    "originalPath": "/assets/originals/disciplines/baggy-utility/cargo_utility_tactical_twill.png",
+    "optimizedWebpPath": "/assets/disciplines/baggy-utility/cargo_utility_tactical_twill.webp",
+    "dimensions": {
+      "width": 1200,
+      "height": 1500,
+      "aspectRatio": 0.8
+    },
+    "fileSizeOriginal": 8529,
+    "fileSizeOptimized": 3270,
+    "savingsPercent": 62,
+    "sha256": "d76300876e21960ca683e33fe1947962557df6bd0521b8c2813a378d36a589cf",
+    "importedAt": "2026-11-20T18:13:20.492Z"
+  },
+  {
+    "id": "uc-lookbook-43be4acca4",
+    "filename": "lookbook_outfit_shinjuku_01.webp",
+    "originalFilename": "lookbook_outfit_shinjuku_01.jpg",
+    "category": "lookbook",
+    "categoryFolder": "lookbook",
+    "categoryName": "Editorial Lookbook Looks",
+    "confidence": 1,
+    "classificationReason": "Matched keywords: [lookbook, look, outfit]",
+    "matchedKeywords": [
+      "lookbook",
+      "look",
+      "outfit"
+    ],
+    "originalPath": "/assets/originals/lookbook/lookbook_outfit_shinjuku_01.jpg",
+    "optimizedWebpPath": "/assets/lookbook/lookbook_outfit_shinjuku_01.webp",
+    "dimensions": {
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.778
+    },
+    "fileSizeOriginal": 12506,
+    "fileSizeOptimized": 3776,
+    "savingsPercent": 70,
+    "sha256": "43be4acca46c637600dc27329d56cfc232548656afeefced217bcd6ce8e3fce9",
+    "importedAt": "2026-11-20T18:13:20.749Z"
+  },
+  {
+    "id": "uc-unclassified-93dc099a0e",
+    "filename": "unlabeled_snapshot_3421.webp",
+    "originalFilename": "unlabeled_snapshot_3421.jpg",
+    "category": "unclassified",
+    "categoryFolder": "unclassified",
+    "categoryName": "Unclassified / Ambiguous",
+    "confidence": 0,
+    "classificationReason": "No matching brand keywords found in path or filename.",
+    "matchedKeywords": [],
+    "originalPath": "/assets/originals/unclassified/unlabeled_snapshot_3421.jpg",
+    "optimizedWebpPath": "/assets/unclassified/unlabeled_snapshot_3421.webp",
+    "dimensions": {
+      "width": 800,
+      "height": 800,
+      "aspectRatio": 1
+    },
+    "fileSizeOriginal": 4015,
+    "fileSizeOptimized": 1198,
+    "savingsPercent": 70,
+    "sha256": "93dc099a0e9227d1056190e84495e677553c3476c7da42eb675a0dbc56b0a17a",
+    "importedAt": "2026-11-20T18:13:20.859Z"
+  },
+  {
+    "id": "uc-unclassified-76a94d12f0",
+    "filename": "ambiguous_unlabeled_art_99.webp",
+    "originalFilename": "ambiguous_unlabeled_art_99.png",
+    "category": "unclassified",
+    "categoryFolder": "unclassified",
+    "categoryName": "Unclassified / Ambiguous",
+    "confidence": 0.35,
+    "classificationReason": "Low keyword confidence (0.35 < 0.55).",
+    "matchedKeywords": [
+      "campaign"
+    ],
+    "originalPath": "/assets/originals/unclassified/ambiguous_unlabeled_art_99.png",
+    "optimizedWebpPath": "/assets/unclassified/ambiguous_unlabeled_art_99.webp",
+    "dimensions": {
+      "width": 600,
+      "height": 600,
+      "aspectRatio": 1
+    },
+    "fileSizeOriginal": 2355,
+    "fileSizeOptimized": 718,
+    "savingsPercent": 70,
+    "sha256": "76a94d12f0f8d3a7f3332b92d953b936a02026eca8ac885e4de376a8fa9c1d96",
+    "importedAt": "2026-11-20T18:13:20.911Z"
+  },
+  {
+    "id": "uc-unclassified-dcd0c634a5",
+    "filename": "hero_campaign_tokyo.webp",
+    "originalFilename": "hero_campaign_tokyo.jpg",
+    "category": "unclassified",
+    "categoryFolder": "unclassified",
+    "categoryName": "Unclassified / Ambiguous",
+    "confidence": 0.5,
+    "classificationReason": "Low keyword confidence (0.50 < 0.55).",
+    "matchedKeywords": [
+      "hero"
+    ],
+    "originalPath": "/assets/originals/unclassified/hero_campaign_tokyo.jpg",
+    "optimizedWebpPath": "/assets/unclassified/hero_campaign_tokyo.webp",
+    "dimensions": {
+      "width": 2400,
+      "height": 1200,
+      "aspectRatio": 2
+    },
+    "fileSizeOriginal": 17141,
+    "fileSizeOptimized": 5182,
+    "savingsPercent": 70,
+    "sha256": "dcd0c634a51cec42846426e0401a11b639ed36d3e7f168da3ce8e26eb5d0f08d",
+    "importedAt": "2026-11-20T18:13:21.184Z"
+  },
+  {
+    "id": "uc-gym-cult-65d8c83cf2",
+    "filename": "gym_pump_cover_heavyweight.webp",
+    "originalFilename": "gym_pump_cover_heavyweight.jpg",
+    "category": "gym-cult",
+    "categoryFolder": "disciplines/gym-cult",
+    "categoryName": "Gym Cult / Iron Discipline",
+    "confidence": 1,
+    "classificationReason": "Matched keywords: [gym, pump, cover]",
+    "matchedKeywords": [
+      "gym",
+      "pump",
+      "cover"
+    ],
+    "originalPath": "/assets/originals/disciplines/gym-cult/gym_pump_cover_heavyweight.jpg",
+    "optimizedWebpPath": "/assets/disciplines/gym-cult/gym_pump_cover_heavyweight.webp",
+    "dimensions": {
+      "width": 1200,
+      "height": 1600,
+      "aspectRatio": 0.75
+    },
+    "fileSizeOriginal": 11516,
+    "fileSizeOptimized": 3476,
+    "savingsPercent": 70,
+    "sha256": "65d8c83cf2895b6ad004e4b38a2fe14fa78bd0a5316e3408d1457efafcc45831",
+    "importedAt": "2026-11-20T18:13:21.415Z"
+  }
+]
